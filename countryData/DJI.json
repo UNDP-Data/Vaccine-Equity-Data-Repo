@@ -3,22 +3,22 @@
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":1179.66,
+   "value":1588.06,
    "labelExtra":"Cases - cumulative total per 100000 population"
   },
   {
    "indicator":"newconfirmedcases7days",
-   "value":15.0,
+   "value":0.0,
    "labelExtra":"New confirmed cases of COVID-19 in 7 days"
   },
   {
    "indicator":"deathscumulativetotalper100000po",
-   "value":15.79,
+   "value":19.13,
    "labelExtra":"Deaths - cumulative total per 100000 population"
   },
   {
    "indicator":"newconfirmedcases24hours",
-   "value":2.0,
+   "value":0.0,
    "labelExtra":"New confirmed cases of COVID-19 in 24 hours"
   },
   {
@@ -38,7 +38,7 @@
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
-   "value":1.52,
+   "value":0.0,
    "labelExtra":"New confirmed cases reported in the last 7 days per 100,000 population"
   },
   {
@@ -88,7 +88,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":644.0,
+   "value":645.0,
    "labelExtra":"Number of days elapsed from first vaccine"
   },
   {
@@ -243,12 +243,12 @@
   },
   {
    "indicator":"uhc",
-   "value":27.18,
+   "value":48.14,
    "labelExtra":"UHC Index of service coverage (SCI)"
   },
   {
    "indicator":"deathsnewlyreportedinlast7daysper",
-   "value":0.1,
+   "value":0.0,
    "labelExtra":"New confirmed deaths reported in the last 7 days per 100,000 population"
   },
   {

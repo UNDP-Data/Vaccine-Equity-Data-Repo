@@ -3,17 +3,17 @@
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":4465.41,
+   "value":22666.03,
    "labelExtra":"Cases - cumulative total per 100000 population"
   },
   {
    "indicator":"newconfirmedcases7days",
-   "value":260.0,
+   "value":36.0,
    "labelExtra":"New confirmed cases of COVID-19 in 7 days"
   },
   {
    "indicator":"deathscumulativetotalper100000po",
-   "value":37.35,
+   "value":120.66,
    "labelExtra":"Deaths - cumulative total per 100000 population"
   },
   {
@@ -38,12 +38,12 @@
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
-   "value":248.98,
+   "value":34.48,
    "labelExtra":"New confirmed cases reported in the last 7 days per 100,000 population"
   },
   {
    "indicator":"deathslast7days",
-   "value":1.0,
+   "value":0.0,
    "labelExtra":"Deaths - newly reported in last 7 days"
   },
   {
@@ -248,7 +248,7 @@
   },
   {
    "indicator":"deathsnewlyreportedinlast7daysper",
-   "value":3.83,
+   "value":0.0,
    "labelExtra":"New confirmed deaths reported in the last 7 days per 100,000 population"
   },
   {
