@@ -88,7 +88,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":649.0,
+   "value":650.0,
    "labelExtra":"Number of days elapsed from first vaccine"
   },
   {
@@ -243,7 +243,7 @@
   },
   {
    "indicator":"uhc",
-   "value":30.61,
+   "value":36.92,
    "labelExtra":"UHC Index of service coverage (SCI)"
   },
   {

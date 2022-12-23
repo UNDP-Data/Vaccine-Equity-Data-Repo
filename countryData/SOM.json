@@ -18,7 +18,7 @@
   },
   {
    "indicator":"newconfirmedcases24hours",
-   "value":14.0,
+   "value":0.0,
    "labelExtra":"New confirmed cases of COVID-19 in 24 hours"
   },
   {
@@ -88,7 +88,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":646.0,
+   "value":647.0,
    "labelExtra":"Number of days elapsed from first vaccine"
   },
   {
