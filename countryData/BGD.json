@@ -8,7 +8,7 @@
   },
   {
    "indicator":"newconfirmedcases7days",
-   "value":122.0,
+   "value":114.0,
    "labelExtra":"New confirmed cases of COVID-19 in 7 days"
   },
   {
@@ -18,12 +18,12 @@
   },
   {
    "indicator":"newconfirmedcases24hours",
-   "value":16.0,
+   "value":8.0,
    "labelExtra":"New confirmed cases of COVID-19 in 24 hours"
   },
   {
    "indicator":"cumulativecases",
-   "value":2037003.0,
+   "value":2037011.0,
    "labelExtra":"The cumulative number of cases a country has recorded"
   },
   {
@@ -88,7 +88,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":695.0,
+   "value":696.0,
    "labelExtra":"Number of days elapsed from first vaccine"
   },
   {
