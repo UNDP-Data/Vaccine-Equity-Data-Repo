@@ -48,7 +48,7 @@
   },
   {
    "indicator":"persons_booster_add_dose",
-   "value":68816.0,
+   "value":69339.0,
    "labelExtra":"Total number of COVID-19 vaccination booster doses administered"
   },
   {
@@ -58,7 +58,7 @@
   },
   {
    "indicator":"cumulativefullyvaccinatedper100",
-   "value":81.75,
+   "value":81.76,
    "labelExtra":"Cumulative number of persons fully vaccinated per 100 population"
   },
   {
@@ -68,22 +68,22 @@
   },
   {
    "indicator":"cumulativetotalvaccinesper100",
-   "value":276.04,
+   "value":276.92,
    "labelExtra":"Cumulative total vaccine doses administered per 100 population"
   },
   {
    "indicator":"numberofvaccinesadministered",
-   "value":177960.0,
+   "value":178525.0,
    "labelExtra":"Number of vaccines administered (total)"
   },
   {
    "indicator":"numberofpersonsatleastonevaccine",
-   "value":54222.0,
+   "value":54223.0,
    "labelExtra":"Absolute number of persons who have received at least one vaccine dose."
   },
   {
    "indicator":"numberofpersonsfullyvaccinated",
-   "value":52704.0,
+   "value":52710.0,
    "labelExtra":"Absolute number of persons who have received a full vaccine course."
   },
   {
@@ -253,7 +253,7 @@
   },
   {
    "indicator":"persons_booster_add_dose_per100",
-   "value":106.74,
+   "value":107.56,
    "labelExtra":"Cumulative number of persons fully vaccinated per 100 population"
   },
   {

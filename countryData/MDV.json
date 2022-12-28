@@ -48,7 +48,7 @@
   },
   {
    "indicator":"persons_booster_add_dose",
-   "value":167176.0,
+   "value":167187.0,
    "labelExtra":"Total number of COVID-19 vaccination booster doses administered"
   },
   {
@@ -73,22 +73,22 @@
   },
   {
    "indicator":"numberofvaccinesadministered",
-   "value":951398.0,
+   "value":951419.0,
    "labelExtra":"Number of vaccines administered (total)"
   },
   {
    "indicator":"numberofpersonsatleastonevaccine",
-   "value":399146.0,
+   "value":399151.0,
    "labelExtra":"Absolute number of persons who have received at least one vaccine dose."
   },
   {
    "indicator":"numberofpersonsfullyvaccinated",
-   "value":385076.0,
+   "value":385081.0,
    "labelExtra":"Absolute number of persons who have received a full vaccine course."
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":694.0,
+   "value":695.0,
    "labelExtra":"Number of days elapsed from first vaccine"
   },
   {

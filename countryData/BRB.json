@@ -73,7 +73,7 @@
   },
   {
    "indicator":"numberofvaccinesadministered",
-   "value":380962.0,
+   "value":380980.0,
    "labelExtra":"Number of vaccines administered (total)"
   },
   {
@@ -83,12 +83,12 @@
   },
   {
    "indicator":"numberofpersonsfullyvaccinated",
-   "value":154972.0,
+   "value":154990.0,
    "labelExtra":"Absolute number of persons who have received a full vaccine course."
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":718.0,
+   "value":719.0,
    "labelExtra":"Number of days elapsed from first vaccine"
   },
   {
