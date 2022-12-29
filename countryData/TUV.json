@@ -88,7 +88,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":624.0,
+   "value":625.0,
    "labelExtra":"Number of days elapsed from first vaccine"
   },
   {
@@ -148,7 +148,7 @@
   },
   {
    "indicator":"utilrate_lag",
-   "value":20316.41,
+   "value":23578.4,
    "labelExtra":"Percentage administered of total delivered vaccines (two week lag)"
   },
   {
