@@ -3,7 +3,7 @@
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":49636.61,
+   "value":49981.51,
    "labelExtra":"Cases - cumulative total per 100000 population"
   },
   {
@@ -13,7 +13,7 @@
   },
   {
    "indicator":"deathscumulativetotalper100000po",
-   "value":249.17,
+   "value":249.67,
    "labelExtra":"Deaths - cumulative total per 100000 population"
   },
   {
@@ -23,7 +23,7 @@
   },
   {
    "indicator":"cumulativecases",
-   "value":198608.0,
+   "value":199988.0,
    "labelExtra":"The cumulative number of cases a country has recorded"
   },
   {
@@ -33,7 +33,7 @@
   },
   {
    "indicator":"cumulativedeaths",
-   "value":997.0,
+   "value":999.0,
    "labelExtra":"The cumulative number of deaths a country has recorded"
   },
   {
@@ -88,7 +88,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":725.0,
+   "value":726.0,
    "labelExtra":"Number of days elapsed from first vaccine"
   },
   {

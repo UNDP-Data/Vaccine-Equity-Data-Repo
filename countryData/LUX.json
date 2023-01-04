@@ -3,27 +3,27 @@
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":49791.09,
+   "value":50015.33,
    "labelExtra":"Cases - cumulative total per 100000 population"
   },
   {
    "indicator":"newconfirmedcases7days",
-   "value":1680.0,
+   "value":777.0,
    "labelExtra":"New confirmed cases of COVID-19 in 7 days"
   },
   {
    "indicator":"deathscumulativetotalper100000po",
-   "value":188.15,
+   "value":189.9,
    "labelExtra":"Deaths - cumulative total per 100000 population"
   },
   {
    "indicator":"newconfirmedcases24hours",
-   "value":311.0,
+   "value":11.0,
    "labelExtra":"New confirmed cases of COVID-19 in 24 hours"
   },
   {
    "indicator":"cumulativecases",
-   "value":311746.0,
+   "value":313150.0,
    "labelExtra":"The cumulative number of cases a country has recorded"
   },
   {
@@ -33,12 +33,12 @@
   },
   {
    "indicator":"cumulativedeaths",
-   "value":1178.0,
+   "value":1189.0,
    "labelExtra":"The cumulative number of deaths a country has recorded"
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
-   "value":268.32,
+   "value":124.1,
    "labelExtra":"New confirmed cases reported in the last 7 days per 100,000 population"
   },
   {
@@ -88,7 +88,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":734.0,
+   "value":735.0,
    "labelExtra":"Number of days elapsed from first vaccine"
   },
   {
