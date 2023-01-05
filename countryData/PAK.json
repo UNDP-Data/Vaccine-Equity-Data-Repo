@@ -88,7 +88,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":700.0,
+   "value":701.0,
    "labelExtra":"Number of days elapsed from first vaccine"
   },
   {
@@ -103,7 +103,7 @@
   },
   {
    "indicator":"stringencyindex_average",
-   "value":40.55,
+   "value":11.11,
    "labelExtra":"Stringency Index"
   },
   {
@@ -168,7 +168,7 @@
   },
   {
    "indicator":"v3_vaccinefinancialsupport",
-   "value":5.0,
+   "value":0.0,
    "labelExtra":"Vaccine Financial Support (summary)"
   },
   {
@@ -178,7 +178,7 @@
   },
   {
    "indicator":"v3_classification",
-   "value":"All eligible groups are fully government-funded",
+   "value":"No availability",
    "labelExtra":"Vaccine financial support classification"
   },
   {

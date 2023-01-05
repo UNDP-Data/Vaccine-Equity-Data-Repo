@@ -88,12 +88,12 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":686.0,
+   "value":687.0,
    "labelExtra":"Number of days elapsed from first vaccine"
   },
   {
    "indicator":"economicsupportindex",
-   "value":100.0,
+   "value":50.0,
    "labelExtra":"Economic support index"
   },
   {
@@ -103,7 +103,7 @@
   },
   {
    "indicator":"stringencyindex_average",
-   "value":31.48,
+   "value":36.11,
    "labelExtra":"Stringency Index"
   },
   {
