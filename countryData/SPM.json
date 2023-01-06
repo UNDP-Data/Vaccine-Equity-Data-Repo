@@ -3,7 +3,7 @@
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":57221.74,
+   "value":57428.82,
    "labelExtra":"Cases - cumulative total per 100000 population"
   },
   {
@@ -23,7 +23,7 @@
   },
   {
    "indicator":"cumulativecases",
-   "value":3316.0,
+   "value":3328.0,
    "labelExtra":"The cumulative number of cases a country has recorded"
   },
   {

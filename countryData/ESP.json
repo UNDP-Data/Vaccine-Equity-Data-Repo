@@ -43,7 +43,7 @@
   },
   {
    "indicator":"deathslast7days",
-   "value":196.0,
+   "value":95.0,
    "labelExtra":"Deaths - newly reported in last 7 days"
   },
   {
@@ -88,7 +88,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":736.0,
+   "value":737.0,
    "labelExtra":"Number of days elapsed from first vaccine"
   },
   {
@@ -248,7 +248,7 @@
   },
   {
    "indicator":"deathsnewlyreportedinlast7daysper",
-   "value":0.41,
+   "value":0.2,
    "labelExtra":"New confirmed deaths reported in the last 7 days per 100,000 population"
   },
   {
