@@ -3,12 +3,12 @@
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":233.46,
+   "value":234.08,
    "labelExtra":"Cases - cumulative total per 100000 population"
   },
   {
    "indicator":"newconfirmedcases7days",
-   "value":101.0,
+   "value":41.0,
    "labelExtra":"New confirmed cases of COVID-19 in 7 days"
   },
   {
@@ -18,12 +18,12 @@
   },
   {
    "indicator":"newconfirmedcases24hours",
-   "value":0.0,
+   "value":41.0,
    "labelExtra":"New confirmed cases of COVID-19 in 24 hours"
   },
   {
    "indicator":"cumulativecases",
-   "value":15466.0,
+   "value":15507.0,
    "labelExtra":"The cumulative number of cases a country has recorded"
   },
   {
@@ -38,7 +38,7 @@
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
-   "value":1.52,
+   "value":0.62,
    "labelExtra":"New confirmed cases reported in the last 7 days per 100,000 population"
   },
   {
@@ -58,37 +58,37 @@
   },
   {
    "indicator":"cumulativefullyvaccinatedper100",
-   "value":89.29,
+   "value":89.9,
    "labelExtra":"Cumulative number of persons fully vaccinated per 100 population"
   },
   {
    "indicator":"cumulativeatleastonevaccineper100",
-   "value":93.03,
+   "value":93.24,
    "labelExtra":"Cumulative persons vaccinated with at least one dose per 100 population"
   },
   {
    "indicator":"cumulativetotalvaccinesper100",
-   "value":182.32,
+   "value":183.14,
    "labelExtra":"Cumulative total vaccine doses administered per 100 population"
   },
   {
    "indicator":"numberofvaccinesadministered",
-   "value":12078027.0,
+   "value":12132092.0,
    "labelExtra":"Number of vaccines administered (total)"
   },
   {
    "indicator":"numberofpersonsatleastonevaccine",
-   "value":6162718.0,
+   "value":6176970.0,
    "labelExtra":"Absolute number of persons who have received at least one vaccine dose."
   },
   {
    "indicator":"numberofpersonsfullyvaccinated",
-   "value":5915309.0,
+   "value":5955122.0,
    "labelExtra":"Absolute number of persons who have received a full vaccine course."
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":679.0,
+   "value":680.0,
    "labelExtra":"Number of days elapsed from first vaccine"
   },
   {

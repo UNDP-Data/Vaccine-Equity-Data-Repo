@@ -3,12 +3,12 @@
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":533.91,
+   "value":533.97,
    "labelExtra":"Cases - cumulative total per 100000 population"
   },
   {
    "indicator":"newconfirmedcases7days",
-   "value":197.0,
+   "value":170.0,
    "labelExtra":"New confirmed cases of COVID-19 in 7 days"
   },
   {
@@ -18,17 +18,17 @@
   },
   {
    "indicator":"newconfirmedcases24hours",
-   "value":31.0,
+   "value":25.0,
    "labelExtra":"New confirmed cases of COVID-19 in 24 hours"
   },
   {
    "indicator":"cumulativecases",
-   "value":207841.0,
+   "value":207866.0,
    "labelExtra":"The cumulative number of cases a country has recorded"
   },
   {
    "indicator":"newdeaths",
-   "value":2.0,
+   "value":0.0,
    "labelExtra":"New deaths attributed to COVID-19 in 24 hours"
   },
   {
@@ -38,12 +38,12 @@
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
-   "value":0.51,
+   "value":0.44,
    "labelExtra":"New confirmed cases reported in the last 7 days per 100,000 population"
   },
   {
    "indicator":"deathslast7days",
-   "value":5.0,
+   "value":4.0,
    "labelExtra":"Deaths - newly reported in last 7 days"
   },
   {
@@ -58,37 +58,37 @@
   },
   {
    "indicator":"cumulativefullyvaccinatedper100",
-   "value":27.63,
+   "value":27.81,
    "labelExtra":"Cumulative number of persons fully vaccinated per 100 population"
   },
   {
    "indicator":"cumulativeatleastonevaccineper100",
-   "value":29.44,
+   "value":29.63,
    "labelExtra":"Cumulative persons vaccinated with at least one dose per 100 population"
   },
   {
    "indicator":"cumulativetotalvaccinesper100",
-   "value":31.98,
+   "value":32.18,
    "labelExtra":"Cumulative total vaccine doses administered per 100 population"
   },
   {
    "indicator":"numberofvaccinesadministered",
-   "value":12449870.0,
+   "value":12526397.0,
    "labelExtra":"Number of vaccines administered (total)"
   },
   {
    "indicator":"numberofpersonsatleastonevaccine",
-   "value":11459692.0,
+   "value":11533150.0,
    "labelExtra":"Absolute number of persons who have received at least one vaccine dose."
   },
   {
    "indicator":"numberofpersonsfullyvaccinated",
-   "value":10754839.0,
+   "value":10825004.0,
    "labelExtra":"Absolute number of persons who have received a full vaccine course."
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":688.0,
+   "value":689.0,
    "labelExtra":"Number of days elapsed from first vaccine"
   },
   {
@@ -148,7 +148,7 @@
   },
   {
    "indicator":"utilrate_lag",
-   "value":64.99,
+   "value":65.39,
    "labelExtra":"Percentage administered of total delivered vaccines (two week lag)"
   },
   {
@@ -243,7 +243,7 @@
   },
   {
    "indicator":"uhc",
-   "value":37.33,
+   "value":25.53,
    "labelExtra":"UHC Index of service coverage (SCI)"
   },
   {

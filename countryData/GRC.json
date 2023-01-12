@@ -13,7 +13,7 @@
   },
   {
    "indicator":"deathscumulativetotalper100000po",
-   "value":324.47,
+   "value":326.86,
    "labelExtra":"Deaths - cumulative total per 100000 population"
   },
   {
@@ -33,7 +33,7 @@
   },
   {
    "indicator":"cumulativedeaths",
-   "value":34779.0,
+   "value":35035.0,
    "labelExtra":"The cumulative number of deaths a country has recorded"
   },
   {
@@ -88,7 +88,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":749.0,
+   "value":750.0,
    "labelExtra":"Number of days elapsed from first vaccine"
   },
   {

@@ -3,27 +3,27 @@
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":7961.74,
+   "value":7962.72,
    "labelExtra":"Cases - cumulative total per 100000 population"
   },
   {
    "indicator":"newconfirmedcases7days",
-   "value":1026.0,
+   "value":1121.0,
    "labelExtra":"New confirmed cases of COVID-19 in 7 days"
   },
   {
    "indicator":"deathscumulativetotalper100000po",
-   "value":101.51,
+   "value":101.52,
    "labelExtra":"Deaths - cumulative total per 100000 population"
   },
   {
    "indicator":"newconfirmedcases24hours",
-   "value":120.0,
+   "value":184.0,
    "labelExtra":"New confirmed cases of COVID-19 in 24 hours"
   },
   {
    "indicator":"cumulativecases",
-   "value":1494953.0,
+   "value":1495137.0,
    "labelExtra":"The cumulative number of cases a country has recorded"
   },
   {
@@ -33,12 +33,12 @@
   },
   {
    "indicator":"cumulativedeaths",
-   "value":19061.0,
+   "value":19062.0,
    "labelExtra":"The cumulative number of deaths a country has recorded"
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
-   "value":5.46,
+   "value":5.97,
    "labelExtra":"New confirmed cases reported in the last 7 days per 100,000 population"
   },
   {
@@ -88,7 +88,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":644.0,
+   "value":645.0,
    "labelExtra":"Number of days elapsed from first vaccine"
   },
   {
@@ -168,7 +168,7 @@
   },
   {
    "indicator":"v3_vaccinefinancialsupport",
-   "value":0.0,
+   "value":5.0,
    "labelExtra":"Vaccine Financial Support (summary)"
   },
   {
@@ -178,7 +178,7 @@
   },
   {
    "indicator":"v3_classification",
-   "value":"No availability",
+   "value":"All eligible groups are fully government-funded",
    "labelExtra":"Vaccine financial support classification"
   },
   {

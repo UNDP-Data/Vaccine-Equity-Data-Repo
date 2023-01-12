@@ -3,52 +3,52 @@
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":26516.99,
+   "value":26527.42,
    "labelExtra":"Cases - cumulative total per 100000 population"
   },
   {
    "indicator":"newconfirmedcases7days",
-   "value":24783.0,
+   "value":25432.0,
    "labelExtra":"New confirmed cases of COVID-19 in 7 days"
   },
   {
    "indicator":"deathscumulativetotalper100000po",
-   "value":331.52,
+   "value":331.56,
    "labelExtra":"Deaths - cumulative total per 100000 population"
   },
   {
    "indicator":"newconfirmedcases24hours",
-   "value":2523.0,
+   "value":1993.0,
    "labelExtra":"New confirmed cases of COVID-19 in 24 hours"
   },
   {
    "indicator":"cumulativecases",
-   "value":5069041.0,
+   "value":5071034.0,
    "labelExtra":"The cumulative number of cases a country has recorded"
   },
   {
    "indicator":"newdeaths",
-   "value":16.0,
+   "value":8.0,
    "labelExtra":"New deaths attributed to COVID-19 in 24 hours"
   },
   {
    "indicator":"cumulativedeaths",
-   "value":63373.0,
+   "value":63381.0,
    "labelExtra":"The cumulative number of deaths a country has recorded"
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
-   "value":129.64,
+   "value":133.04,
    "labelExtra":"New confirmed cases reported in the last 7 days per 100,000 population"
   },
   {
    "indicator":"deathslast7days",
-   "value":173.0,
+   "value":181.0,
    "labelExtra":"Deaths - newly reported in last 7 days"
   },
   {
    "indicator":"persons_booster_add_dose",
-   "value":15706021.0,
+   "value":15710464.0,
    "labelExtra":"Total number of COVID-19 vaccination booster doses administered"
   },
   {
@@ -58,37 +58,37 @@
   },
   {
    "indicator":"cumulativefullyvaccinatedper100",
-   "value":92.56,
+   "value":92.57,
    "labelExtra":"Cumulative number of persons fully vaccinated per 100 population"
   },
   {
    "indicator":"cumulativeatleastonevaccineper100",
-   "value":94.59,
+   "value":94.6,
    "labelExtra":"Cumulative persons vaccinated with at least one dose per 100 population"
   },
   {
    "indicator":"cumulativetotalvaccinesper100",
-   "value":332.87,
+   "value":333.72,
    "labelExtra":"Cumulative total vaccine doses administered per 100 population"
   },
   {
    "indicator":"numberofvaccinesadministered",
-   "value":63632713.0,
+   "value":63793606.0,
    "labelExtra":"Number of vaccines administered (total)"
   },
   {
    "indicator":"numberofpersonsatleastonevaccine",
-   "value":18081619.0,
+   "value":18083129.0,
    "labelExtra":"Absolute number of persons who have received at least one vaccine dose."
   },
   {
    "indicator":"numberofpersonsfullyvaccinated",
-   "value":17694156.0,
+   "value":17695964.0,
    "labelExtra":"Absolute number of persons who have received a full vaccine course."
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":751.0,
+   "value":752.0,
    "labelExtra":"Number of days elapsed from first vaccine"
   },
   {
@@ -148,7 +148,7 @@
   },
   {
    "indicator":"utilrate_lag",
-   "value":68.54,
+   "value":68.72,
    "labelExtra":"Percentage administered of total delivered vaccines (two week lag)"
   },
   {
@@ -248,12 +248,12 @@
   },
   {
    "indicator":"deathsnewlyreportedinlast7daysper",
-   "value":0.9,
+   "value":0.95,
    "labelExtra":"New confirmed deaths reported in the last 7 days per 100,000 population"
   },
   {
    "indicator":"persons_booster_add_dose_per100",
-   "value":82.16,
+   "value":82.18,
    "labelExtra":"Cumulative number of persons fully vaccinated per 100 population"
   },
   {

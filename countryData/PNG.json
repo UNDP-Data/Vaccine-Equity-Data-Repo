@@ -58,7 +58,7 @@
   },
   {
    "indicator":"cumulativefullyvaccinatedper100",
-   "value":3.46,
+   "value":3.47,
    "labelExtra":"Cumulative number of persons fully vaccinated per 100 population"
   },
   {
@@ -83,12 +83,12 @@
   },
   {
    "indicator":"numberofpersonsfullyvaccinated",
-   "value":309599.0,
+   "value":310717.0,
    "labelExtra":"Absolute number of persons who have received a full vaccine course."
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":652.0,
+   "value":653.0,
    "labelExtra":"Number of days elapsed from first vaccine"
   },
   {

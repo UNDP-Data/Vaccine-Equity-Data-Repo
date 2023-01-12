@@ -3,27 +3,27 @@
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":62747.53,
+   "value":62785.8,
    "labelExtra":"Cases - cumulative total per 100000 population"
   },
   {
    "indicator":"newconfirmedcases7days",
-   "value":6308.0,
+   "value":5076.0,
    "labelExtra":"New confirmed cases of COVID-19 in 7 days"
   },
   {
    "indicator":"deathscumulativetotalper100000po",
-   "value":422.88,
+   "value":423.69,
    "labelExtra":"Deaths - cumulative total per 100000 population"
   },
   {
    "indicator":"newconfirmedcases24hours",
-   "value":907.0,
+   "value":681.0,
    "labelExtra":"New confirmed cases of COVID-19 in 24 hours"
   },
   {
    "indicator":"cumulativecases",
-   "value":1315101.0,
+   "value":1315903.0,
    "labelExtra":"The cumulative number of cases a country has recorded"
   },
   {
@@ -33,12 +33,12 @@
   },
   {
    "indicator":"cumulativedeaths",
-   "value":8863.0,
+   "value":8880.0,
    "labelExtra":"The cumulative number of deaths a country has recorded"
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
-   "value":300.97,
+   "value":242.19,
    "labelExtra":"New confirmed cases reported in the last 7 days per 100,000 population"
   },
   {
@@ -88,7 +88,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":749.0,
+   "value":750.0,
    "labelExtra":"Number of days elapsed from first vaccine"
   },
   {
@@ -148,7 +148,7 @@
   },
   {
    "indicator":"utilrate_lag",
-   "value":167.9,
+   "value":168.39,
    "labelExtra":"Percentage administered of total delivered vaccines (two week lag)"
   },
   {
