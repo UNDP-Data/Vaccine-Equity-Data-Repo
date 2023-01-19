@@ -3,22 +3,22 @@
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":1808.17,
+   "value":5171.71,
    "labelExtra":"Cases - cumulative total per 100000 population"
   },
   {
    "indicator":"newconfirmedcases7days",
-   "value":1402.0,
+   "value":175.0,
    "labelExtra":"New confirmed cases of COVID-19 in 7 days"
   },
   {
    "indicator":"deathscumulativetotalper100000po",
-   "value":40.63,
+   "value":117.39,
    "labelExtra":"Deaths - cumulative total per 100000 population"
   },
   {
    "indicator":"newconfirmedcases24hours",
-   "value":115.0,
+   "value":0.0,
    "labelExtra":"New confirmed cases of COVID-19 in 24 hours"
   },
   {
@@ -38,7 +38,7 @@
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
-   "value":47.35,
+   "value":5.91,
    "labelExtra":"New confirmed cases reported in the last 7 days per 100,000 population"
   },
   {
@@ -243,12 +243,12 @@
   },
   {
    "indicator":"uhc",
-   "value":68.86,
+   "value":70.11,
    "labelExtra":"UHC Index of service coverage (SCI)"
   },
   {
    "indicator":"deathsnewlyreportedinlast7daysper",
-   "value":0.81,
+   "value":0.37,
    "labelExtra":"New confirmed deaths reported in the last 7 days per 100,000 population"
   },
   {
