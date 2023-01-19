@@ -8,7 +8,7 @@
   },
   {
    "indicator":"newconfirmedcases7days",
-   "value":25.0,
+   "value":19.0,
    "labelExtra":"New confirmed cases of COVID-19 in 7 days"
   },
   {
@@ -38,7 +38,7 @@
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
-   "value":0.06,
+   "value":0.04,
    "labelExtra":"New confirmed cases reported in the last 7 days per 100,000 population"
   },
   {

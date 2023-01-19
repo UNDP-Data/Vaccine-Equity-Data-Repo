@@ -8,7 +8,7 @@
   },
   {
    "indicator":"newconfirmedcases7days",
-   "value":22938.0,
+   "value":10818.0,
    "labelExtra":"New confirmed cases of COVID-19 in 7 days"
   },
   {
@@ -38,12 +38,12 @@
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
-   "value":38.46,
+   "value":18.14,
    "labelExtra":"New confirmed cases reported in the last 7 days per 100,000 population"
   },
   {
    "indicator":"deathslast7days",
-   "value":193.0,
+   "value":104.0,
    "labelExtra":"Deaths - newly reported in last 7 days"
   },
   {
@@ -248,7 +248,7 @@
   },
   {
    "indicator":"deathsnewlyreportedinlast7daysper",
-   "value":0.32,
+   "value":0.17,
    "labelExtra":"New confirmed deaths reported in the last 7 days per 100,000 population"
   },
   {

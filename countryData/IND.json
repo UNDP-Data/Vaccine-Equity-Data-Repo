@@ -3,12 +3,12 @@
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":3237.77,
+   "value":3237.78,
    "labelExtra":"Cases - cumulative total per 100000 population"
   },
   {
    "indicator":"newconfirmedcases7days",
-   "value":985.0,
+   "value":922.0,
    "labelExtra":"New confirmed cases of COVID-19 in 7 days"
   },
   {
@@ -18,17 +18,17 @@
   },
   {
    "indicator":"newconfirmedcases24hours",
-   "value":138.0,
+   "value":134.0,
    "labelExtra":"New confirmed cases of COVID-19 in 24 hours"
   },
   {
    "indicator":"cumulativecases",
-   "value":44681371.0,
+   "value":44681505.0,
    "labelExtra":"The cumulative number of cases a country has recorded"
   },
   {
    "indicator":"newdeaths",
-   "value":2.0,
+   "value":0.0,
    "labelExtra":"New deaths attributed to COVID-19 in 24 hours"
   },
   {
@@ -43,7 +43,7 @@
   },
   {
    "indicator":"deathslast7days",
-   "value":6.0,
+   "value":5.0,
    "labelExtra":"Deaths - newly reported in last 7 days"
   },
   {
