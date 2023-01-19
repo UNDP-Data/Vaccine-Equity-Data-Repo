@@ -3,7 +3,7 @@
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":8067.98,
+   "value":0.5,
    "labelExtra":"Cases - cumulative total per 100000 population"
   },
   {
@@ -13,7 +13,7 @@
   },
   {
    "indicator":"deathscumulativetotalper100000po",
-   "value":14.62,
+   "value":0.0,
    "labelExtra":"Deaths - cumulative total per 100000 population"
   },
   {
