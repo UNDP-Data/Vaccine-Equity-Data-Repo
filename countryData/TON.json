@@ -3,7 +3,7 @@
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":0.0,
+   "value":15696.11,
    "labelExtra":"Cases - cumulative total per 100000 population"
   },
   {
@@ -13,7 +13,7 @@
   },
   {
    "indicator":"deathscumulativetotalper100000po",
-   "value":0.0,
+   "value":12.3,
    "labelExtra":"Deaths - cumulative total per 100000 population"
   },
   {
@@ -43,7 +43,7 @@
   },
   {
    "indicator":"deathslast7days",
-   "value":1.0,
+   "value":0.0,
    "labelExtra":"Deaths - newly reported in last 7 days"
   },
   {
@@ -88,7 +88,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":643.0,
+   "value":645.0,
    "labelExtra":"Number of days elapsed from first vaccine"
   },
   {
@@ -148,7 +148,7 @@
   },
   {
    "indicator":"utilrate_lag",
-   "value":101.37,
+   "value":101.57,
    "labelExtra":"Percentage administered of total delivered vaccines (two week lag)"
   },
   {
