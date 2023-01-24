@@ -88,7 +88,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":698.0,
+   "value":700.0,
    "labelExtra":"Number of days elapsed from first vaccine"
   },
   {
@@ -103,7 +103,7 @@
   },
   {
    "indicator":"stringencyindex_average",
-   "value":21.3,
+   "value":17.59,
    "labelExtra":"Stringency Index"
   },
   {
