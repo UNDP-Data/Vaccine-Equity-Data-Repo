@@ -3,22 +3,22 @@
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":751.87,
+   "value":8.23,
    "labelExtra":"Cases - cumulative total per 100000 population"
   },
   {
    "indicator":"newconfirmedcases7days",
-   "value":139417.0,
+   "value":668.0,
    "labelExtra":"New confirmed cases of COVID-19 in 7 days"
   },
   {
    "indicator":"deathscumulativetotalper100000po",
-   "value":2.35,
+   "value":0.38,
    "labelExtra":"Deaths - cumulative total per 100000 population"
   },
   {
    "indicator":"newconfirmedcases24hours",
-   "value":19849.0,
+   "value":123.0,
    "labelExtra":"New confirmed cases of COVID-19 in 24 hours"
   },
   {
@@ -28,7 +28,7 @@
   },
   {
    "indicator":"newdeaths",
-   "value":65.0,
+   "value":0.0,
    "labelExtra":"New deaths attributed to COVID-19 in 24 hours"
   },
   {
@@ -38,12 +38,12 @@
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
-   "value":9.48,
+   "value":0.05,
    "labelExtra":"New confirmed cases reported in the last 7 days per 100,000 population"
   },
   {
    "indicator":"deathslast7days",
-   "value":577.0,
+   "value":484.0,
    "labelExtra":"Deaths - newly reported in last 7 days"
   },
   {
@@ -103,7 +103,7 @@
   },
   {
    "indicator":"stringencyindex_average",
-   "value":71.76,
+   "value":63.43,
    "labelExtra":"Stringency Index"
   },
   {
@@ -248,7 +248,7 @@
   },
   {
    "indicator":"deathsnewlyreportedinlast7daysper",
-   "value":0.04,
+   "value":0.0,
    "labelExtra":"New confirmed deaths reported in the last 7 days per 100,000 population"
   },
   {

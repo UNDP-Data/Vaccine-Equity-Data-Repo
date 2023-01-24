@@ -3,22 +3,22 @@
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":13784.96,
+   "value":6784.49,
    "labelExtra":"Cases - cumulative total per 100000 population"
   },
   {
    "indicator":"newconfirmedcases7days",
-   "value":0.0,
+   "value":936.0,
    "labelExtra":"New confirmed cases of COVID-19 in 7 days"
   },
   {
    "indicator":"deathscumulativetotalper100000po",
-   "value":111.89,
+   "value":76.0,
    "labelExtra":"Deaths - cumulative total per 100000 population"
   },
   {
    "indicator":"newconfirmedcases24hours",
-   "value":0.0,
+   "value":181.0,
    "labelExtra":"New confirmed cases of COVID-19 in 24 hours"
   },
   {
@@ -38,7 +38,7 @@
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
-   "value":0.0,
+   "value":18.35,
    "labelExtra":"New confirmed cases reported in the last 7 days per 100,000 population"
   },
   {
@@ -103,7 +103,7 @@
   },
   {
    "indicator":"stringencyindex_average",
-   "value":11.11,
+   "value":0.0,
    "labelExtra":"Stringency Index"
   },
   {
@@ -173,7 +173,7 @@
   },
   {
    "indicator":"h7_classification",
-   "value":"None",
+   "value":"Universal availability",
    "labelExtra":"Vaccination delivery policy classification"
   },
   {
@@ -248,7 +248,7 @@
   },
   {
    "indicator":"deathsnewlyreportedinlast7daysper",
-   "value":0.0,
+   "value":0.16,
    "labelExtra":"New confirmed deaths reported in the last 7 days per 100,000 population"
   },
   {
