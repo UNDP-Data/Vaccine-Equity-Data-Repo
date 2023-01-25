@@ -3,7 +3,7 @@
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":0.0,
+   "value":23566.82,
    "labelExtra":"Cases - cumulative total per 100000 population"
   },
   {
@@ -88,7 +88,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":651.0,
+   "value":652.0,
    "labelExtra":"Number of days elapsed from first vaccine"
   },
   {
