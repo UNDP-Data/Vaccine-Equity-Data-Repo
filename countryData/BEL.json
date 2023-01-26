@@ -8,7 +8,7 @@
   },
   {
    "indicator":"newconfirmedcases7days",
-   "value":892.0,
+   "value":337.0,
    "labelExtra":"New confirmed cases of COVID-19 in 7 days"
   },
   {
@@ -38,12 +38,12 @@
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
-   "value":7.74,
+   "value":2.92,
    "labelExtra":"New confirmed cases reported in the last 7 days per 100,000 population"
   },
   {
    "indicator":"deathslast7days",
-   "value":10.0,
+   "value":7.0,
    "labelExtra":"Deaths - newly reported in last 7 days"
   },
   {
@@ -88,7 +88,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":756.0,
+   "value":757.0,
    "labelExtra":"Number of days elapsed from first vaccine"
   },
   {
@@ -113,7 +113,7 @@
   },
   {
    "indicator":"h5_investmentinvaccines",
-   "value":27427500.0,
+   "value":27401640.2699999996,
    "labelExtra":"Public spending on vaccine development (USD)"
   },
   {
@@ -148,7 +148,7 @@
   },
   {
    "indicator":"utilrate_lag",
-   "value":1293.94,
+   "value":1309.13,
    "labelExtra":"Percentage administered of total delivered vaccines (two week lag)"
   },
   {
@@ -248,7 +248,7 @@
   },
   {
    "indicator":"deathsnewlyreportedinlast7daysper",
-   "value":0.09,
+   "value":0.06,
    "labelExtra":"New confirmed deaths reported in the last 7 days per 100,000 population"
   },
   {
