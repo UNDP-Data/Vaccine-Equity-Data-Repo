@@ -3,263 +3,211 @@
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":535.15,
-   "labelExtra":"Cases - cumulative total per 100000 population"
+   "value":535.15
   },
   {
    "indicator":"newconfirmedcases7days",
-   "value":315.0,
-   "labelExtra":"New confirmed cases of COVID-19 in 7 days"
+   "value":315.0
   },
   {
    "indicator":"deathscumulativetotalper100000po",
-   "value":20.22,
-   "labelExtra":"Deaths - cumulative total per 100000 population"
+   "value":20.22
   },
   {
    "indicator":"newconfirmedcases24hours",
-   "value":35.0,
-   "labelExtra":"New confirmed cases of COVID-19 in 24 hours"
+   "value":35.0
   },
   {
    "indicator":"cumulativecases",
-   "value":208324.0,
-   "labelExtra":"The cumulative number of cases a country has recorded"
+   "value":208324.0
   },
   {
    "indicator":"newdeaths",
-   "value":1.0,
-   "labelExtra":"New deaths attributed to COVID-19 in 24 hours"
+   "value":1.0
   },
   {
    "indicator":"cumulativedeaths",
-   "value":7872.0,
-   "labelExtra":"The cumulative number of deaths a country has recorded"
+   "value":7872.0
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
-   "value":0.81,
-   "labelExtra":"New confirmed cases reported in the last 7 days per 100,000 population"
+   "value":0.81
   },
   {
    "indicator":"deathslast7days",
-   "value":13.0,
-   "labelExtra":"Deaths - newly reported in last 7 days"
+   "value":13.0
   },
   {
    "indicator":"persons_booster_add_dose",
-   "value":null,
-   "labelExtra":"Total number of COVID-19 vaccination booster doses administered"
+   "value":null
   },
   {
-   "indicator":"numberofvaccinetypes",
-   "value":11.0,
-   "labelExtra":"Number of Vaccine Type used"
+   "indicator":"number_vaccines_types_used",
+   "value":11.0
   },
   {
-   "indicator":"cumulativefullyvaccinatedper100",
-   "value":28.14,
-   "labelExtra":"Cumulative number of persons fully vaccinated per 100 population"
+   "indicator":"persons_fully_vaccinated_per100",
+   "value":28.14
   },
   {
-   "indicator":"cumulativeatleastonevaccineper100",
-   "value":29.98,
-   "labelExtra":"Cumulative persons vaccinated with at least one dose per 100 population"
+   "indicator":"persons_vaccinated_1plus_dose_pe",
+   "value":29.98
   },
   {
-   "indicator":"cumulativetotalvaccinesper100",
-   "value":32.55,
-   "labelExtra":"Cumulative total vaccine doses administered per 100 population"
+   "indicator":"total_vaccinations_per100",
+   "value":32.55
   },
   {
    "indicator":"numberofvaccinesadministered",
-   "value":12672379.0,
-   "labelExtra":"Number of vaccines administered (total)"
+   "value":12672379.0
   },
   {
    "indicator":"numberofpersonsatleastonevaccine",
-   "value":11672740.0,
-   "labelExtra":"Absolute number of persons who have received at least one vaccine dose."
+   "value":11672740.0
   },
   {
    "indicator":"numberofpersonsfullyvaccinated",
-   "value":10956289.0,
-   "labelExtra":"Absolute number of persons who have received a full vaccine course."
+   "value":10956289.0
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":704.0,
-   "labelExtra":"Number of days elapsed from first vaccine"
+   "value":704.0
   },
   {
    "indicator":"economicsupportindex",
-   "value":0.0,
-   "labelExtra":"Economic support index"
+   "value":0.0
   },
   {
-   "indicator":"h7_vaccinationdeliverypolicy",
-   "value":5.0,
-   "labelExtra":"Vaccination delivery policy"
+   "indicator":"h7_vaccinationpolicy",
+   "value":5.0
   },
   {
    "indicator":"stringencyindex_average",
-   "value":0.0,
-   "labelExtra":"Stringency Index"
+   "value":0.0
   },
   {
    "indicator":"e4_internationalsupport",
-   "value":152400000.0,
-   "labelExtra":"COVID related aid spending"
+   "value":152400000.0
   },
   {
    "indicator":"h5_investmentinvaccines",
-   "value":113000000.0,
-   "labelExtra":"Public spending on vaccine development (USD)"
+   "value":113000000.0
   },
   {
    "indicator":"cost_gdp_income70",
-   "value":null,
-   "labelExtra":"Cost of vaccinating 70% of population as percent of GDP"
+   "value":null
   },
   {
    "indicator":"cost_gdp_income40",
-   "value":null,
-   "labelExtra":"Cost of vaccinating 40% of population as percent of GDP"
+   "value":null
   },
   {
    "indicator":"pricebracket_che40",
-   "value":7.89,
-   "labelExtra":"Cost of vaccinating 40% of population as a percent of current health expenditure"
+   "value":7.89
   },
   {
    "indicator":"pricebracket_che70",
-   "value":13.81,
-   "labelExtra":"Cost of vaccinating 70% of population as a percent of current health expenditure"
+   "value":13.81
   },
   {
    "indicator":"pricebracket_che",
-   "value":19.72,
-   "labelExtra":"Cost of vaccinating 100% of population as a percent of current health expenditure"
+   "value":19.72
   },
   {
    "indicator":"utilrate_current",
-   "value":63.37,
-   "labelExtra":"Percentage administered of total delivered vaccines"
+   "value":66.15
   },
   {
    "indicator":"utilrate_lag",
-   "value":66.15,
-   "labelExtra":"Percentage administered of total delivered vaccines (two week lag)"
+   "value":66.15
   },
   {
    "indicator":"donationsoftotal",
-   "value":19.31,
-   "labelExtra":"Percent donations received"
+   "value":19.31
   },
   {
    "indicator":"gap_percapita",
-   "value":1.05,
-   "labelExtra":"Financial gap per capita in US$ for 133 low and middle income countries  (in-country delivery only)"
+   "value":1.05
   },
   {
    "indicator":"gap_gghe",
-   "value":43.5,
-   "labelExtra":"Financial gap as percent of government health expenditure (in-country delivery only)"
+   "value":43.5
   },
   {
-   "indicator":"v3_vaccinefinancialsupport",
-   "value":5.0,
-   "labelExtra":"Vaccine Financial Support (summary)"
+   "indicator":"v3_vaccinefinancialsupportsummar",
+   "value":5.0
   },
   {
-   "indicator":"h7_classification",
-   "value":"Universal availability",
-   "labelExtra":"Vaccination delivery policy classification"
+   "indicator":"h7_name",
+   "value":"Universal availability"
   },
   {
-   "indicator":"v3_classification",
-   "value":"All eligible groups are fully government-funded",
-   "labelExtra":"Vaccine financial support classification"
+   "indicator":"v3_name",
+   "value":"All eligible groups are fully government-funded"
   },
   {
    "indicator":"deliveredpopulation",
-   "value":48.09,
-   "labelExtra":"Vaccine doses received (% of population)"
+   "value":48.09
   },
   {
    "indicator":"delivered_total",
-   "value":19156857.0,
-   "labelExtra":"Vaccines Delivered (total)"
+   "value":19156857.0
   },
   {
    "indicator":"delivered_total_lag",
-   "value":19156857.0,
-   "labelExtra":"Vaccines Delivered (total)-Lagged"
+   "value":19156857.0
   },
   {
    "indicator":"covid19riskclass",
-   "value":"Very High",
-   "labelExtra":"COVID-19 INFORM Risk Class"
+   "value":"Very High"
   },
   {
    "indicator":"informcovid19risk",
-   "value":6.8,
-   "labelExtra":"INFORM COVID-19 Risk Index"
+   "value":6.8
   },
   {
    "indicator":"hdi",
-   "value":0.51,
-   "labelExtra":"Human development index (HDI)"
+   "value":0.51
   },
   {
    "indicator":"che",
-   "value":65.81,
-   "labelExtra":"Current health expenditure (CHE) per capita in US$"
+   "value":65.81
   },
   {
-   "indicator":"vaccinewillingness",
-   "value":"76.8",
-   "labelExtra":"Vaccine willingness"
+   "indicator":"vaccine_willingness_monthly",
+   "value":"76.8"
   },
   {
    "indicator":"y2021NGDPDPC",
-   "value":null,
-   "labelExtra":"Gross domestic product per capita, current prices"
+   "value":null
   },
   {
    "indicator":"y2021GGXWDG_NGDP",
-   "value":null,
-   "labelExtra":"General government gross debt"
+   "value":null
   },
   {
    "indicator":"securedvaccineofpopulation",
-   "value":132.8,
-   "labelExtra":"Secured and\/or Expected Vaccine Supply in total doses (% of population)"
+   "value":132.8
   },
   {
    "indicator":"totaldonationsreceived",
-   "value":3700000.0,
-   "labelExtra":"Number of vaccine doses received through bilateral or multilateral donations"
+   "value":3700000.0
   },
   {
    "indicator":"uhc",
-   "value":37.33,
-   "labelExtra":"UHC Index of service coverage (SCI)"
+   "value":37.33
   },
   {
    "indicator":"deathsnewlyreportedinlast7daysper",
-   "value":0.03,
-   "labelExtra":"New confirmed deaths reported in the last 7 days per 100,000 population"
+   "value":0.03
   },
   {
-   "indicator":"persons_booster_add_dose_per100",
-   "value":null,
-   "labelExtra":"Cumulative number of persons fully vaccinated per 100 population"
+   "indicator":"total_boosters_per_hundred",
+   "value":null
   },
   {
-   "indicator":"dateoffirstvaccine",
-   "value":"22feb2021",
-   "labelExtra":"First Vaccine Date"
+   "indicator":"first_vaccine_date",
+   "value":"22feb2021"
   }
  ],
  "Country or Area":"Afghanistan",
