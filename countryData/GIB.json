@@ -15,7 +15,7 @@
   },
   {
    "indicator":"newconfirmedcases24hours",
-   "value":7.0
+   "value":0.0
   },
   {
    "indicator":"cumulativecases",
