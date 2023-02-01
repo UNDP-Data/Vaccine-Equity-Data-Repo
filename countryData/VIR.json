@@ -19,7 +19,7 @@
   },
   {
    "indicator":"cumulativecases",
-   "value":24425.0
+   "value":24475.0
   },
   {
    "indicator":"newdeaths",
@@ -135,7 +135,7 @@
   },
   {
    "indicator":"v3_vaccinefinancialsupportsummar",
-   "value":1.0
+   "value":5.0
   },
   {
    "indicator":"h7_name",
@@ -143,7 +143,7 @@
   },
   {
    "indicator":"v3_name",
-   "value":"Full cost to everyone eligible"
+   "value":"All eligible groups are fully government-funded"
   },
   {
    "indicator":"deliveredpopulation",
