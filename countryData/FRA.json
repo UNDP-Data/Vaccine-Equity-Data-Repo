@@ -3,43 +3,43 @@
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":59051.25
+   "value":59076.14
   },
   {
    "indicator":"newconfirmedcases7days",
-   "value":22482.0
+   "value":30374.0
   },
   {
    "indicator":"deathscumulativetotalper100000po",
-   "value":246.64
+   "value":246.87
   },
   {
    "indicator":"newconfirmedcases24hours",
-   "value":0.0
+   "value":6860.0
   },
   {
    "indicator":"cumulativecases",
-   "value":38415837.0
+   "value":38422744.0
   },
   {
    "indicator":"newdeaths",
-   "value":59.0
+   "value":57.0
   },
   {
    "indicator":"cumulativedeaths",
-   "value":160508.0
+   "value":160565.0
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
-   "value":34.57
+   "value":46.7
   },
   {
    "indicator":"deathslast7days",
-   "value":280.0
+   "value":278.0
   },
   {
    "indicator":"persons_booster_add_dose",
-   "value":40936035.0
+   "value":40965404.0
   },
   {
    "indicator":"number_vaccines_types_used",
@@ -47,31 +47,31 @@
   },
   {
    "indicator":"persons_fully_vaccinated_per100",
-   "value":78.93
+   "value":78.95
   },
   {
    "indicator":"persons_vaccinated_1plus_dose_pe",
-   "value":81.16
+   "value":81.17
   },
   {
    "indicator":"total_vaccinations_per100",
-   "value":233.5
+   "value":234.0
   },
   {
    "indicator":"numberofvaccinesadministered",
-   "value":157206259.0
+   "value":157553708.0
   },
   {
    "indicator":"numberofpersonsatleastonevaccine",
-   "value":54634803.0
+   "value":54644085.0
   },
   {
    "indicator":"numberofpersonsfullyvaccinated",
-   "value":53136001.0
+   "value":53146318.0
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":763.0
+   "value":764.0
   },
   {
    "indicator":"economicsupportindex",
@@ -199,11 +199,11 @@
   },
   {
    "indicator":"deathsnewlyreportedinlast7daysper",
-   "value":0.44
+   "value":0.43
   },
   {
    "indicator":"total_boosters_per_hundred",
-   "value":60.81
+   "value":60.85
   },
   {
    "indicator":"first_vaccine_date",

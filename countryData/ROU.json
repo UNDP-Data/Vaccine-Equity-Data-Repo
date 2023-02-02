@@ -3,15 +3,15 @@
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":17190.11
+   "value":17202.31
   },
   {
    "indicator":"newconfirmedcases7days",
-   "value":0.0
+   "value":2358.0
   },
   {
    "indicator":"deathscumulativetotalper100000po",
-   "value":349.44
+   "value":349.61
   },
   {
    "indicator":"newconfirmedcases24hours",
@@ -23,7 +23,7 @@
   },
   {
    "indicator":"newdeaths",
-   "value":34.0
+   "value":0.0
   },
   {
    "indicator":"cumulativedeaths",
@@ -31,7 +31,7 @@
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
-   "value":0.0
+   "value":12.2
   },
   {
    "indicator":"deathslast7days",
@@ -39,7 +39,7 @@
   },
   {
    "indicator":"persons_booster_add_dose",
-   "value":1766136.0
+   "value":1766891.0
   },
   {
    "indicator":"number_vaccines_types_used",
@@ -47,7 +47,7 @@
   },
   {
    "indicator":"persons_fully_vaccinated_per100",
-   "value":42.11
+   "value":42.12
   },
   {
    "indicator":"persons_vaccinated_1plus_dose_pe",
@@ -59,19 +59,19 @@
   },
   {
    "indicator":"numberofvaccinesadministered",
-   "value":16098236.0
+   "value":16102916.0
   },
   {
    "indicator":"numberofpersonsatleastonevaccine",
-   "value":8185912.0
+   "value":8186209.0
   },
   {
    "indicator":"numberofpersonsfullyvaccinated",
-   "value":8139834.0
+   "value":8140308.0
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":735.0
+   "value":736.0
   },
   {
    "indicator":"economicsupportindex",
@@ -119,7 +119,7 @@
   },
   {
    "indicator":"utilrate_lag",
-   "value":45.62
+   "value":45.79
   },
   {
    "indicator":"donationsoftotal",
@@ -199,7 +199,7 @@
   },
   {
    "indicator":"deathsnewlyreportedinlast7daysper",
-   "value":0.0
+   "value":0.18
   },
   {
    "indicator":"total_boosters_per_hundred",
