@@ -15,7 +15,7 @@
   },
   {
    "indicator":"newconfirmedcases24hours",
-   "value":420.0
+   "value":0.0
   },
   {
    "indicator":"cumulativecases",
@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":711.0
+   "value":712.0
   },
   {
    "indicator":"economicsupportindex",
