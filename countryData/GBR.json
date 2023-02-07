@@ -35,7 +35,7 @@
   },
   {
    "indicator":"deathslast7days",
-   "value":267.0
+   "value":77.0
   },
   {
    "indicator":"persons_booster_add_dose",
@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":777.0
+   "value":778.0
   },
   {
    "indicator":"economicsupportindex",

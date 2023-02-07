@@ -19,15 +19,15 @@
   },
   {
    "indicator":"cumulativecases",
-   "value":1228890.0
+   "value":1229480.0
   },
   {
    "indicator":"newdeaths",
-   "value":0.0
+   "value":1.0
   },
   {
    "indicator":"cumulativedeaths",
-   "value":10792.0
+   "value":10796.0
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":722.0
+   "value":723.0
   },
   {
    "indicator":"economicsupportindex",
