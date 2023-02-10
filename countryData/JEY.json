@@ -35,7 +35,7 @@
   },
   {
    "indicator":"deathslast7days",
-   "value":4.0
+   "value":0.0
   },
   {
    "indicator":"persons_booster_add_dose",
@@ -199,7 +199,7 @@
   },
   {
    "indicator":"deathsnewlyreportedinlast7daysper",
-   "value":3.71
+   "value":0.0
   },
   {
    "indicator":"total_boosters_per_hundred",
