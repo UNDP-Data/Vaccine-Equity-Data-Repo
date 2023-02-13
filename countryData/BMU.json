@@ -15,7 +15,7 @@
   },
   {
    "indicator":"newconfirmedcases24hours",
-   "value":14.0
+   "value":0.0
   },
   {
    "indicator":"cumulativecases",
@@ -23,7 +23,7 @@
   },
   {
    "indicator":"newdeaths",
-   "value":1.0
+   "value":0.0
   },
   {
    "indicator":"cumulativedeaths",
@@ -115,7 +115,7 @@
   },
   {
    "indicator":"utilrate_current",
-   "value":20703.17
+   "value":20711.56
   },
   {
    "indicator":"utilrate_lag",

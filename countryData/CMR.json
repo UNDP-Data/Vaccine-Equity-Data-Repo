@@ -115,7 +115,7 @@
   },
   {
    "indicator":"utilrate_current",
-   "value":10.51
+   "value":10.54
   },
   {
    "indicator":"utilrate_lag",
@@ -139,7 +139,7 @@
   },
   {
    "indicator":"h7_name",
-   "value":"Universal availability"
+   "value":"None"
   },
   {
    "indicator":"v3_name",

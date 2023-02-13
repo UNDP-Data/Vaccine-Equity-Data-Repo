@@ -1,129 +1,129 @@
 {
- "Alpha-3 code":"TTO",
+ "Alpha-3 code":"GLB",
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":13447.7
+   "value":null
   },
   {
    "indicator":"newconfirmedcases7days",
-   "value":291.0
+   "value":null
   },
   {
    "indicator":"deathscumulativetotalper100000po",
-   "value":309.47
+   "value":null
   },
   {
    "indicator":"newconfirmedcases24hours",
-   "value":0.0
+   "value":null
   },
   {
    "indicator":"cumulativecases",
-   "value":188199.0
+   "value":null
   },
   {
    "indicator":"newdeaths",
-   "value":0.0
+   "value":null
   },
   {
    "indicator":"cumulativedeaths",
-   "value":4331.0
+   "value":null
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
-   "value":20.79
+   "value":null
   },
   {
    "indicator":"deathslast7days",
-   "value":5.0
+   "value":null
   },
   {
    "indicator":"persons_booster_add_dose",
-   "value":172880.0
+   "value":null
   },
   {
    "indicator":"number_vaccines_types_used",
-   "value":5.0
+   "value":null
   },
   {
    "indicator":"persons_fully_vaccinated_per100",
-   "value":51.33
+   "value":null
   },
   {
    "indicator":"persons_vaccinated_1plus_dose_pe",
-   "value":53.9
+   "value":null
   },
   {
    "indicator":"total_vaccinations_per100",
-   "value":113.4
+   "value":null
   },
   {
    "indicator":"numberofvaccinesadministered",
-   "value":1587067.0
+   "value":null
   },
   {
    "indicator":"numberofpersonsatleastonevaccine",
-   "value":754399.0
+   "value":null
   },
   {
    "indicator":"numberofpersonsfullyvaccinated",
-   "value":718352.0
+   "value":null
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":726.0
+   "value":null
   },
   {
    "indicator":"economicsupportindex",
-   "value":0.0
+   "value":null
   },
   {
    "indicator":"h7_vaccinationpolicy",
-   "value":5.0
+   "value":null
   },
   {
    "indicator":"stringencyindex_average",
-   "value":11.11
+   "value":null
   },
   {
    "indicator":"e4_internationalsupport",
-   "value":0.0
+   "value":null
   },
   {
    "indicator":"h5_investmentinvaccines",
-   "value":0.0
+   "value":null
   },
   {
    "indicator":"cost_gdp_income70",
-   "value":0.12
+   "value":null
   },
   {
    "indicator":"cost_gdp_income40",
-   "value":0.07
+   "value":null
   },
   {
    "indicator":"pricebracket_che40",
-   "value":0.91
+   "value":null
   },
   {
    "indicator":"pricebracket_che70",
-   "value":1.6
+   "value":null
   },
   {
    "indicator":"pricebracket_che",
-   "value":2.28
+   "value":null
   },
   {
    "indicator":"utilrate_current",
-   "value":3102.31
+   "value":null
   },
   {
    "indicator":"utilrate_lag",
-   "value":3102.31
+   "value":null
   },
   {
    "indicator":"donationsoftotal",
-   "value":42.98
+   "value":null
   },
   {
    "indicator":"gap_percapita",
@@ -135,92 +135,92 @@
   },
   {
    "indicator":"v3_vaccinefinancialsupportsummar",
-   "value":5.0
+   "value":null
   },
   {
    "indicator":"h7_name",
-   "value":"Universal availability"
+   "value":"None"
   },
   {
    "indicator":"v3_name",
-   "value":"All eligible groups are fully government-funded"
+   "value":"None"
   },
   {
    "indicator":"deliveredpopulation",
-   "value":156.53
+   "value":null
   },
   {
    "indicator":"delivered_total",
-   "value":2196701.0
+   "value":null
   },
   {
    "indicator":"delivered_total_lag",
-   "value":2196701.0
+   "value":null
   },
   {
    "indicator":"covid19riskclass",
-   "value":"Medium"
+   "value":"None"
   },
   {
    "indicator":"informcovid19risk",
-   "value":3.8
+   "value":null
   },
   {
    "indicator":"hdi",
-   "value":0.8
+   "value":null
   },
   {
    "indicator":"che",
-   "value":1167.93
+   "value":null
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"59.8"
+   "value":"None"
   },
   {
    "indicator":"y2021NGDPDPC",
-   "value":15352.72
+   "value":null
   },
   {
    "indicator":"y2021GGXWDG_NGDP",
-   "value":70.43
+   "value":null
   },
   {
    "indicator":"securedvaccineofpopulation",
-   "value":270.93
+   "value":null
   },
   {
    "indicator":"totaldonationsreceived",
-   "value":944080.0
+   "value":null
   },
   {
    "indicator":"uhc",
-   "value":73.33
+   "value":null
   },
   {
    "indicator":"deathsnewlyreportedinlast7daysper",
-   "value":0.36
+   "value":null
   },
   {
    "indicator":"total_boosters_per_hundred",
-   "value":12.35
+   "value":null
   },
   {
    "indicator":"first_vaccine_date",
-   "value":"17feb2021"
+   "value":"None"
   }
  ],
- "Country or Area":"Trinidad and Tobago",
- "Alpha-2 code":"TT",
- "Numeric code":780,
- "Latitude (average)":11.0,
- "Longitude (average)":-61.0,
- "Group 1":"Americas",
- "Group 2":"Latin America and the Caribbean",
- "Group 3":"Caribbean",
+ "Country or Area":"Global",
+ "Alpha-2 code":"",
+ "Numeric code":0,
+ "Latitude (average)":0.0,
+ "Longitude (average)":0.0,
+ "Group 1":"",
+ "Group 2":"",
+ "Group 3":"",
  "LDC":false,
  "LLDC":false,
- "SIDS":true,
- "Development classification":"SIDS",
- "Income group":"High income"
+ "SIDS":false,
+ "Development classification":"",
+ "Income group":""
 }
