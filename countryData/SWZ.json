@@ -19,7 +19,7 @@
   },
   {
    "indicator":"cumulativecases",
-   "value":74143.0
+   "value":74158.0
   },
   {
    "indicator":"newdeaths",
@@ -55,11 +55,11 @@
   },
   {
    "indicator":"total_vaccinations_per100",
-   "value":70.75
+   "value":71.41
   },
   {
    "indicator":"numberofvaccinesadministered",
-   "value":820794.0
+   "value":828421.0
   },
   {
    "indicator":"numberofpersonsatleastonevaccine",
@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":698.0
+   "value":699.0
   },
   {
    "indicator":"economicsupportindex",
@@ -119,7 +119,7 @@
   },
   {
    "indicator":"utilrate_lag",
-   "value":1946.84
+   "value":1948.21
   },
   {
    "indicator":"donationsoftotal",
