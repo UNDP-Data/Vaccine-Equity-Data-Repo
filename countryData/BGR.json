@@ -3,39 +3,39 @@
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":18642.9
+   "value":18644.53
   },
   {
    "indicator":"newconfirmedcases7days",
-   "value":304.0
+   "value":323.0
   },
   {
    "indicator":"deathscumulativetotalper100000po",
-   "value":549.45
+   "value":549.52
   },
   {
    "indicator":"newconfirmedcases24hours",
-   "value":88.0
+   "value":62.0
   },
   {
    "indicator":"cumulativecases",
-   "value":1296009.0
+   "value":1296071.0
   },
   {
    "indicator":"newdeaths",
-   "value":3.0
+   "value":2.0
   },
   {
    "indicator":"cumulativedeaths",
-   "value":38198.0
+   "value":38200.0
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
-   "value":4.37
+   "value":4.65
   },
   {
    "indicator":"deathslast7days",
-   "value":8.0
+   "value":9.0
   },
   {
    "indicator":"persons_booster_add_dose",
@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":778.0
+   "value":779.0
   },
   {
    "indicator":"economicsupportindex",
@@ -199,7 +199,7 @@
   },
   {
    "indicator":"deathsnewlyreportedinlast7daysper",
-   "value":0.12
+   "value":0.13
   },
   {
    "indicator":"total_boosters_per_hundred",
