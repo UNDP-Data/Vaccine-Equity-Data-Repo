@@ -3,39 +3,39 @@
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":235.9
+   "value":null
   },
   {
    "indicator":"newconfirmedcases7days",
-   "value":15.0
+   "value":null
   },
   {
    "indicator":"deathscumulativetotalper100000po",
-   "value":3.7
+   "value":null
   },
   {
    "indicator":"newconfirmedcases24hours",
-   "value":0.0
+   "value":null
   },
   {
    "indicator":"cumulativecases",
-   "value":15627.0
+   "value":null
   },
   {
    "indicator":"newdeaths",
-   "value":0.0
+   "value":null
   },
   {
    "indicator":"cumulativedeaths",
-   "value":245.0
+   "value":null
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
-   "value":0.23
+   "value":null
   },
   {
    "indicator":"deathslast7days",
-   "value":0.0
+   "value":null
   },
   {
    "indicator":"persons_booster_add_dose",
@@ -71,51 +71,51 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":718.0
+   "value":719.0
   },
   {
    "indicator":"economicsupportindex",
-   "value":0.0
+   "value":null
   },
   {
    "indicator":"h7_vaccinationpolicy",
-   "value":5.0
+   "value":null
   },
   {
    "indicator":"stringencyindex_average",
-   "value":13.89
+   "value":null
   },
   {
    "indicator":"e4_internationalsupport",
-   "value":0.0
+   "value":null
   },
   {
    "indicator":"h5_investmentinvaccines",
-   "value":260000000.0
+   "value":null
   },
   {
    "indicator":"cost_gdp_income70",
-   "value":0.47
+   "value":null
   },
   {
    "indicator":"cost_gdp_income40",
-   "value":0.27
+   "value":null
   },
   {
    "indicator":"pricebracket_che40",
-   "value":3.38
+   "value":null
   },
   {
    "indicator":"pricebracket_che70",
-   "value":5.92
+   "value":null
   },
   {
    "indicator":"pricebracket_che",
-   "value":8.46
+   "value":null
   },
   {
    "indicator":"utilrate_current",
-   "value":18.96
+   "value":18.97
   },
   {
    "indicator":"utilrate_lag",
@@ -123,19 +123,19 @@
   },
   {
    "indicator":"donationsoftotal",
-   "value":9.8
+   "value":null
   },
   {
    "indicator":"gap_percapita",
-   "value":1.89
+   "value":null
   },
   {
    "indicator":"gap_gghe",
-   "value":1.9
+   "value":null
   },
   {
    "indicator":"v3_vaccinefinancialsupportsummar",
-   "value":5.0
+   "value":null
   },
   {
    "indicator":"h7_name",
@@ -143,7 +143,7 @@
   },
   {
    "indicator":"v3_name",
-   "value":"All eligible groups are fully government-funded"
+   "value":"None"
   },
   {
    "indicator":"deliveredpopulation",
@@ -159,47 +159,47 @@
   },
   {
    "indicator":"covid19riskclass",
-   "value":"Medium"
+   "value":"None"
   },
   {
    "indicator":"informcovid19risk",
-   "value":4.5
+   "value":null
   },
   {
    "indicator":"hdi",
-   "value":0.66
+   "value":null
   },
   {
    "indicator":"che",
-   "value":160.76
+   "value":null
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"95.2"
+   "value":"None"
   },
   {
    "indicator":"y2021NGDPDPC",
-   "value":2047.1
+   "value":null
   },
   {
    "indicator":"y2021GGXWDG_NGDP",
-   "value":49.53
+   "value":null
   },
   {
    "indicator":"securedvaccineofpopulation",
-   "value":210.16
+   "value":null
   },
   {
    "indicator":"totaldonationsreceived",
-   "value":1350000.0
+   "value":null
   },
   {
    "indicator":"uhc",
-   "value":70.05
+   "value":null
   },
   {
    "indicator":"deathsnewlyreportedinlast7daysper",
-   "value":0.0
+   "value":null
   },
   {
    "indicator":"total_boosters_per_hundred",
@@ -210,17 +210,17 @@
    "value":"03mar2021"
   }
  ],
- "Country or Area":"Nicaragua",
- "Alpha-2 code":"NI",
- "Numeric code":558,
- "Latitude (average)":13.0,
- "Longitude (average)":-85.0,
- "Group 1":"Americas",
- "Group 2":"Latin America and the Caribbean",
- "Group 3":"Central America",
+ "Country or Area":"No income group available",
+ "Alpha-2 code":"",
+ "Numeric code":0,
+ "Latitude (average)":0.0,
+ "Longitude (average)":0.0,
+ "Group 1":"",
+ "Group 2":"",
+ "Group 3":"",
  "LDC":false,
  "LLDC":false,
  "SIDS":false,
  "Development classification":"",
- "Income group":"Lower middle income"
+ "Income group":""
 }
