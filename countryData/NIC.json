@@ -19,15 +19,15 @@
   },
   {
    "indicator":"cumulativecases",
-   "value":null
+   "value":15627.0
   },
   {
    "indicator":"newdeaths",
-   "value":null
+   "value":0.0
   },
   {
    "indicator":"cumulativedeaths",
-   "value":null
+   "value":245.0
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
@@ -35,7 +35,7 @@
   },
   {
    "indicator":"deathslast7days",
-   "value":null
+   "value":0.0
   },
   {
    "indicator":"persons_booster_add_dose",
@@ -75,43 +75,43 @@
   },
   {
    "indicator":"economicsupportindex",
-   "value":null
+   "value":0.0
   },
   {
    "indicator":"h7_vaccinationpolicy",
-   "value":null
+   "value":5.0
   },
   {
    "indicator":"stringencyindex_average",
-   "value":null
+   "value":13.89
   },
   {
    "indicator":"e4_internationalsupport",
-   "value":null
+   "value":0.0
   },
   {
    "indicator":"h5_investmentinvaccines",
-   "value":null
+   "value":260000000.0
   },
   {
    "indicator":"cost_gdp_income70",
-   "value":null
+   "value":0.47
   },
   {
    "indicator":"cost_gdp_income40",
-   "value":null
+   "value":0.27
   },
   {
    "indicator":"pricebracket_che40",
-   "value":null
+   "value":3.38
   },
   {
    "indicator":"pricebracket_che70",
-   "value":null
+   "value":5.92
   },
   {
    "indicator":"pricebracket_che",
-   "value":null
+   "value":8.46
   },
   {
    "indicator":"utilrate_current",
@@ -123,19 +123,19 @@
   },
   {
    "indicator":"donationsoftotal",
-   "value":null
+   "value":9.8
   },
   {
    "indicator":"gap_percapita",
-   "value":null
+   "value":1.89
   },
   {
    "indicator":"gap_gghe",
-   "value":null
+   "value":1.9
   },
   {
    "indicator":"v3_vaccinefinancialsupportsummar",
-   "value":null
+   "value":5.0
   },
   {
    "indicator":"h7_name",
@@ -143,7 +143,7 @@
   },
   {
    "indicator":"v3_name",
-   "value":"None"
+   "value":"All eligible groups are fully government-funded"
   },
   {
    "indicator":"deliveredpopulation",
@@ -159,11 +159,11 @@
   },
   {
    "indicator":"covid19riskclass",
-   "value":"None"
+   "value":"Medium"
   },
   {
    "indicator":"informcovid19risk",
-   "value":null
+   "value":4.5
   },
   {
    "indicator":"hdi",
@@ -171,31 +171,31 @@
   },
   {
    "indicator":"che",
-   "value":null
+   "value":160.76
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"None"
+   "value":"95.2"
   },
   {
    "indicator":"y2021NGDPDPC",
-   "value":null
+   "value":2047.1
   },
   {
    "indicator":"y2021GGXWDG_NGDP",
-   "value":null
+   "value":49.53
   },
   {
    "indicator":"securedvaccineofpopulation",
-   "value":null
+   "value":210.16
   },
   {
    "indicator":"totaldonationsreceived",
-   "value":null
+   "value":1350000.0
   },
   {
    "indicator":"uhc",
-   "value":null
+   "value":70.05
   },
   {
    "indicator":"deathsnewlyreportedinlast7daysper",
