@@ -1,105 +1,105 @@
 {
- "Alpha-3 code":"ABW",
+ "Alpha-3 code":"NAMe",
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":41235.97
+   "value":null
   },
   {
    "indicator":"newconfirmedcases7days",
-   "value":0.0
+   "value":null
   },
   {
    "indicator":"deathscumulativetotalper100000po",
-   "value":264.13
+   "value":null
   },
   {
    "indicator":"newconfirmedcases24hours",
-   "value":0.0
+   "value":null
   },
   {
    "indicator":"cumulativecases",
-   "value":44026.0
+   "value":null
   },
   {
    "indicator":"newdeaths",
-   "value":0.0
+   "value":null
   },
   {
    "indicator":"cumulativedeaths",
-   "value":282.0
+   "value":null
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
-   "value":0.0
+   "value":null
   },
   {
    "indicator":"deathslast7days",
-   "value":0.0
+   "value":null
   },
   {
    "indicator":"persons_booster_add_dose",
-   "value":35659.0
+   "value":null
   },
   {
    "indicator":"number_vaccines_types_used",
-   "value":2.0
+   "value":null
   },
   {
    "indicator":"persons_fully_vaccinated_per100",
-   "value":78.76
+   "value":null
   },
   {
    "indicator":"persons_vaccinated_1plus_dose_pe",
-   "value":84.53
+   "value":null
   },
   {
    "indicator":"total_vaccinations_per100",
-   "value":202.84
+   "value":null
   },
   {
    "indicator":"numberofvaccinesadministered",
-   "value":216561.0
+   "value":null
   },
   {
    "indicator":"numberofpersonsatleastonevaccine",
-   "value":90248.0
+   "value":null
   },
   {
    "indicator":"numberofpersonsfullyvaccinated",
-   "value":84085.0
+   "value":null
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":734.0
+   "value":null
   },
   {
    "indicator":"economicsupportindex",
-   "value":0.0
+   "value":null
   },
   {
    "indicator":"h7_vaccinationpolicy",
-   "value":5.0
+   "value":null
   },
   {
    "indicator":"stringencyindex_average",
-   "value":25.93
+   "value":null
   },
   {
    "indicator":"e4_internationalsupport",
-   "value":0.0
+   "value":null
   },
   {
    "indicator":"h5_investmentinvaccines",
-   "value":0.0
+   "value":null
   },
   {
    "indicator":"cost_gdp_income70",
-   "value":0.07
+   "value":null
   },
   {
    "indicator":"cost_gdp_income40",
-   "value":0.04
+   "value":null
   },
   {
    "indicator":"pricebracket_che40",
@@ -115,11 +115,11 @@
   },
   {
    "indicator":"utilrate_current",
-   "value":71.24
+   "value":null
   },
   {
    "indicator":"utilrate_lag",
-   "value":71.24
+   "value":null
   },
   {
    "indicator":"donationsoftotal",
@@ -135,27 +135,27 @@
   },
   {
    "indicator":"v3_vaccinefinancialsupportsummar",
-   "value":5.0
+   "value":null
   },
   {
    "indicator":"h7_name",
-   "value":"Universal availability"
+   "value":"None"
   },
   {
    "indicator":"v3_name",
-   "value":"All eligible groups are fully government-funded"
+   "value":"None"
   },
   {
    "indicator":"deliveredpopulation",
-   "value":178.75
+   "value":null
   },
   {
    "indicator":"delivered_total",
-   "value":191611.0
+   "value":null
   },
   {
    "indicator":"delivered_total_lag",
-   "value":191611.0
+   "value":null
   },
   {
    "indicator":"covid19riskclass",
@@ -175,15 +175,15 @@
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"60.8"
+   "value":"None"
   },
   {
    "indicator":"y2021NGDPDPC",
-   "value":25700.87
+   "value":null
   },
   {
    "indicator":"y2021GGXWDG_NGDP",
-   "value":117.47
+   "value":null
   },
   {
    "indicator":"securedvaccineofpopulation",
@@ -199,28 +199,28 @@
   },
   {
    "indicator":"deathsnewlyreportedinlast7daysper",
-   "value":0.0
+   "value":null
   },
   {
    "indicator":"total_boosters_per_hundred",
-   "value":33.4
+   "value":null
   },
   {
    "indicator":"first_vaccine_date",
-   "value":"17feb2021"
+   "value":"None"
   }
  ],
- "Country or Area":"Aruba",
- "Alpha-2 code":"AW",
- "Numeric code":533,
- "Latitude (average)":12.5,
- "Longitude (average)":-69.9667,
- "Group 1":"Americas",
- "Group 2":"Latin America and the Caribbean",
- "Group 3":"Caribbean",
+ "Country or Area":"North America",
+ "Alpha-2 code":"",
+ "Numeric code":0,
+ "Latitude (average)":0.0,
+ "Longitude (average)":0.0,
+ "Group 1":"",
+ "Group 2":"",
+ "Group 3":"",
  "LDC":false,
  "LLDC":false,
- "SIDS":true,
- "Development classification":"SIDS",
- "Income group":"High income"
+ "SIDS":false,
+ "Development classification":"",
+ "Income group":""
 }

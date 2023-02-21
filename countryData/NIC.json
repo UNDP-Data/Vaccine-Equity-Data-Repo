@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":719.0
+   "value":720.0
   },
   {
    "indicator":"economicsupportindex",
@@ -167,7 +167,7 @@
   },
   {
    "indicator":"hdi",
-   "value":null
+   "value":0.66
   },
   {
    "indicator":"che",
@@ -210,17 +210,17 @@
    "value":"03mar2021"
   }
  ],
- "Country or Area":"No income group available",
- "Alpha-2 code":"",
- "Numeric code":0,
- "Latitude (average)":0.0,
- "Longitude (average)":0.0,
- "Group 1":"",
- "Group 2":"",
- "Group 3":"",
+ "Country or Area":"Nicaragua",
+ "Alpha-2 code":"NI",
+ "Numeric code":558,
+ "Latitude (average)":13.0,
+ "Longitude (average)":-85.0,
+ "Group 1":"Americas",
+ "Group 2":"Latin America and the Caribbean",
+ "Group 3":"Central America",
  "LDC":false,
  "LLDC":false,
  "SIDS":false,
  "Development classification":"",
- "Income group":""
+ "Income group":"Lower middle income"
 }
