@@ -1,77 +1,77 @@
 {
- "Alpha-3 code":"MDV",
+ "Alpha-3 code":"CSS",
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":34359.64
+   "value":null
   },
   {
    "indicator":"newconfirmedcases7days",
-   "value":6.0
+   "value":null
   },
   {
    "indicator":"deathscumulativetotalper100000po",
-   "value":57.54
+   "value":null
   },
   {
    "indicator":"newconfirmedcases24hours",
-   "value":0.0
+   "value":null
   },
   {
    "indicator":"cumulativecases",
-   "value":185729.0
+   "value":null
   },
   {
    "indicator":"newdeaths",
-   "value":0.0
+   "value":null
   },
   {
    "indicator":"cumulativedeaths",
-   "value":311.0
+   "value":null
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
-   "value":1.11
+   "value":null
   },
   {
    "indicator":"deathslast7days",
-   "value":0.0
+   "value":null
   },
   {
    "indicator":"persons_booster_add_dose",
-   "value":167187.0
+   "value":null
   },
   {
    "indicator":"number_vaccines_types_used",
-   "value":8.0
+   "value":null
   },
   {
    "indicator":"persons_fully_vaccinated_per100",
-   "value":71.24
+   "value":null
   },
   {
    "indicator":"persons_vaccinated_1plus_dose_pe",
-   "value":73.86
+   "value":null
   },
   {
    "indicator":"total_vaccinations_per100",
-   "value":176.03
+   "value":null
   },
   {
    "indicator":"numberofvaccinesadministered",
-   "value":951511.0
+   "value":null
   },
   {
    "indicator":"numberofpersonsatleastonevaccine",
-   "value":399225.0
+   "value":null
   },
   {
    "indicator":"numberofpersonsfullyvaccinated",
-   "value":385099.0
+   "value":null
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":752.0
+   "value":null
   },
   {
    "indicator":"economicsupportindex",
@@ -95,35 +95,35 @@
   },
   {
    "indicator":"cost_gdp_income70",
-   "value":0.11
+   "value":null
   },
   {
    "indicator":"cost_gdp_income40",
-   "value":0.07
+   "value":null
   },
   {
    "indicator":"pricebracket_che40",
-   "value":0.91
+   "value":null
   },
   {
    "indicator":"pricebracket_che70",
-   "value":1.59
+   "value":null
   },
   {
    "indicator":"pricebracket_che",
-   "value":2.27
+   "value":null
   },
   {
    "indicator":"utilrate_current",
-   "value":560.23
+   "value":null
   },
   {
    "indicator":"utilrate_lag",
-   "value":560.23
+   "value":null
   },
   {
    "indicator":"donationsoftotal",
-   "value":27.13
+   "value":null
   },
   {
    "indicator":"gap_percapita",
@@ -147,80 +147,80 @@
   },
   {
    "indicator":"deliveredpopulation",
-   "value":271.17
+   "value":null
   },
   {
    "indicator":"delivered_total",
-   "value":1474134.0
+   "value":null
   },
   {
    "indicator":"delivered_total_lag",
-   "value":1474134.0
+   "value":null
   },
   {
    "indicator":"covid19riskclass",
-   "value":"Medium"
+   "value":"None"
   },
   {
    "indicator":"informcovid19risk",
-   "value":3.9
+   "value":null
   },
   {
    "indicator":"hdi",
-   "value":0.74
+   "value":null
   },
   {
    "indicator":"che",
-   "value":854.37
+   "value":null
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"90.0"
+   "value":"None"
   },
   {
    "indicator":"y2021NGDPDPC",
-   "value":11899.09
+   "value":null
   },
   {
    "indicator":"y2021GGXWDG_NGDP",
-   "value":137.21
+   "value":null
   },
   {
    "indicator":"securedvaccineofpopulation",
-   "value":401.57
+   "value":null
   },
   {
    "indicator":"totaldonationsreceived",
-   "value":400000.0
+   "value":null
   },
   {
    "indicator":"uhc",
-   "value":69.17
+   "value":null
   },
   {
    "indicator":"deathsnewlyreportedinlast7daysper",
-   "value":0.0
+   "value":null
   },
   {
    "indicator":"total_boosters_per_hundred",
-   "value":30.93
+   "value":null
   },
   {
    "indicator":"first_vaccine_date",
-   "value":"01feb2021"
+   "value":"None"
   }
  ],
- "Country or Area":"Maldives",
- "Alpha-2 code":"MV",
- "Numeric code":462,
- "Latitude (average)":3.25,
- "Longitude (average)":73.0,
- "Group 1":"Asia",
- "Group 2":"Southern Asia",
+ "Country or Area":"Caribbean and Small States",
+ "Alpha-2 code":"",
+ "Numeric code":0,
+ "Latitude (average)":0.0,
+ "Longitude (average)":0.0,
+ "Group 1":"",
+ "Group 2":"",
  "Group 3":"",
  "LDC":false,
  "LLDC":false,
- "SIDS":true,
- "Development classification":"SIDS",
- "Income group":"Upper middle income"
+ "SIDS":false,
+ "Development classification":"",
+ "Income group":""
 }
