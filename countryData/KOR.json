@@ -3,43 +3,43 @@
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":59516.69
+   "value":59648.89
   },
   {
    "indicator":"newconfirmedcases7days",
-   "value":67946.0
+   "value":67778.0
   },
   {
    "indicator":"deathscumulativetotalper100000po",
-   "value":66.27
+   "value":66.41
   },
   {
    "indicator":"newconfirmedcases24hours",
-   "value":10817.0
+   "value":12284.0
   },
   {
    "indicator":"cumulativecases",
-   "value":30513721.0
+   "value":30581499.0
   },
   {
    "indicator":"newdeaths",
-   "value":16.0
+   "value":15.0
   },
   {
    "indicator":"cumulativedeaths",
-   "value":33977.0
+   "value":34049.0
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
-   "value":132.53
+   "value":132.2
   },
   {
    "indicator":"deathslast7days",
-   "value":104.0
+   "value":72.0
   },
   {
    "indicator":"persons_booster_add_dose",
-   "value":33646923.0
+   "value":33643847.0
   },
   {
    "indicator":"number_vaccines_types_used",
@@ -47,31 +47,31 @@
   },
   {
    "indicator":"persons_fully_vaccinated_per100",
-   "value":86.7
+   "value":83.8
   },
   {
    "indicator":"persons_vaccinated_1plus_dose_pe",
-   "value":87.51
+   "value":87.56
   },
   {
    "indicator":"total_vaccinations_per100",
-   "value":265.51
+   "value":264.37
   },
   {
    "indicator":"numberofvaccinesadministered",
-   "value":136127066.0
+   "value":135542622.0
   },
   {
    "indicator":"numberofpersonsatleastonevaccine",
-   "value":44867343.0
+   "value":44888522.0
   },
   {
    "indicator":"numberofpersonsfullyvaccinated",
-   "value":44448097.0
+   "value":42961477.0
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":740.0
+   "value":741.0
   },
   {
    "indicator":"economicsupportindex",
@@ -199,11 +199,11 @@
   },
   {
    "indicator":"deathsnewlyreportedinlast7daysper",
-   "value":0.2
+   "value":0.14
   },
   {
    "indicator":"total_boosters_per_hundred",
-   "value":65.63
+   "value":65.62
   },
   {
    "indicator":"first_vaccine_date",
