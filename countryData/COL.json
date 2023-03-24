@@ -3,15 +3,15 @@
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":12500.82
+   "value":12501.83
   },
   {
    "indicator":"newconfirmedcases7days",
-   "value":691.0
+   "value":513.0
   },
   {
    "indicator":"deathscumulativetotalper100000po",
-   "value":280.33
+   "value":280.35
   },
   {
    "indicator":"newconfirmedcases24hours",
@@ -19,7 +19,7 @@
   },
   {
    "indicator":"cumulativecases",
-   "value":6360780.0
+   "value":6361293.0
   },
   {
    "indicator":"newdeaths",
@@ -27,19 +27,19 @@
   },
   {
    "indicator":"cumulativedeaths",
-   "value":142639.0
+   "value":142652.0
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
-   "value":1.36
+   "value":1.01
   },
   {
    "indicator":"deathslast7days",
-   "value":10.0
+   "value":13.0
   },
   {
    "indicator":"persons_booster_add_dose",
-   "value":14675916.0
+   "value":14704700.0
   },
   {
    "indicator":"number_vaccines_types_used",
@@ -47,31 +47,31 @@
   },
   {
    "indicator":"persons_fully_vaccinated_per100",
-   "value":72.61
+   "value":72.64
   },
   {
    "indicator":"persons_vaccinated_1plus_dose_pe",
-   "value":84.43
+   "value":84.45
   },
   {
    "indicator":"total_vaccinations_per100",
-   "value":177.29
+   "value":177.44
   },
   {
    "indicator":"numberofvaccinesadministered",
-   "value":90210929.0
+   "value":90285644.0
   },
   {
    "indicator":"numberofpersonsatleastonevaccine",
-   "value":42959468.0
+   "value":42971012.0
   },
   {
    "indicator":"numberofpersonsfullyvaccinated",
-   "value":36948604.0
+   "value":36963551.0
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":763.0
+   "value":765.0
   },
   {
    "indicator":"economicsupportindex",
@@ -119,7 +119,7 @@
   },
   {
    "indicator":"utilrate_lag",
-   "value":66.88
+   "value":66.98
   },
   {
    "indicator":"donationsoftotal",
@@ -199,11 +199,11 @@
   },
   {
    "indicator":"deathsnewlyreportedinlast7daysper",
-   "value":0.02
+   "value":0.03
   },
   {
    "indicator":"total_boosters_per_hundred",
-   "value":28.84
+   "value":28.9
   },
   {
    "indicator":"first_vaccine_date",

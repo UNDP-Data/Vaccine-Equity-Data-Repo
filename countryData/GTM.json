@@ -3,23 +3,23 @@
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":6915.49
+   "value":6927.03
   },
   {
    "indicator":"newconfirmedcases7days",
-   "value":1161.0
+   "value":2083.0
   },
   {
    "indicator":"deathscumulativetotalper100000po",
-   "value":112.65
+   "value":112.66
   },
   {
    "indicator":"newconfirmedcases24hours",
-   "value":0.0
+   "value":265.0
   },
   {
    "indicator":"cumulativecases",
-   "value":1238950.0
+   "value":1241016.0
   },
   {
    "indicator":"newdeaths",
@@ -27,19 +27,19 @@
   },
   {
    "indicator":"cumulativedeaths",
-   "value":20182.0
+   "value":20183.0
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
-   "value":6.48
+   "value":11.63
   },
   {
    "indicator":"deathslast7days",
-   "value":2.0
+   "value":1.0
   },
   {
    "indicator":"persons_booster_add_dose",
-   "value":3647335.0
+   "value":3681004.0
   },
   {
    "indicator":"number_vaccines_types_used",
@@ -47,31 +47,31 @@
   },
   {
    "indicator":"persons_fully_vaccinated_per100",
-   "value":39.53
+   "value":39.65
   },
   {
    "indicator":"persons_vaccinated_1plus_dose_pe",
-   "value":49.67
+   "value":49.76
   },
   {
    "indicator":"total_vaccinations_per100",
-   "value":112.53
+   "value":113.07
   },
   {
    "indicator":"numberofvaccinesadministered",
-   "value":20160469.0
+   "value":20257676.0
   },
   {
    "indicator":"numberofpersonsatleastonevaccine",
-   "value":8898028.0
+   "value":8915029.0
   },
   {
    "indicator":"numberofpersonsfullyvaccinated",
-   "value":7082462.0
+   "value":7102774.0
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":755.0
+   "value":757.0
   },
   {
    "indicator":"economicsupportindex",
@@ -119,7 +119,7 @@
   },
   {
    "indicator":"utilrate_lag",
-   "value":1.07
+   "value":1.08
   },
   {
    "indicator":"donationsoftotal",
@@ -203,7 +203,7 @@
   },
   {
    "indicator":"total_boosters_per_hundred",
-   "value":20.36
+   "value":20.55
   },
   {
    "indicator":"first_vaccine_date",

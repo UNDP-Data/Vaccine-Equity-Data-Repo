@@ -3,43 +3,43 @@
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":59327.6
+   "value":59384.89
   },
   {
    "indicator":"newconfirmedcases7days",
-   "value":34298.0
+   "value":47584.0
   },
   {
    "indicator":"deathscumulativetotalper100000po",
-   "value":248.41
+   "value":248.62
   },
   {
    "indicator":"newconfirmedcases24hours",
-   "value":0.0
+   "value":1470.0
   },
   {
    "indicator":"cumulativecases",
-   "value":38586293.0
+   "value":38623552.0
   },
   {
    "indicator":"newdeaths",
-   "value":0.0
+   "value":50.0
   },
   {
    "indicator":"cumulativedeaths",
-   "value":161564.0
+   "value":161700.0
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
-   "value":52.73
+   "value":73.16
   },
   {
    "indicator":"deathslast7days",
-   "value":116.0
+   "value":164.0
   },
   {
    "indicator":"persons_booster_add_dose",
-   "value":40984221.0
+   "value":41006600.0
   },
   {
    "indicator":"number_vaccines_types_used",
@@ -47,31 +47,31 @@
   },
   {
    "indicator":"persons_fully_vaccinated_per100",
-   "value":78.96
+   "value":78.98
   },
   {
    "indicator":"persons_vaccinated_1plus_dose_pe",
-   "value":81.18
+   "value":81.19
   },
   {
    "indicator":"total_vaccinations_per100",
-   "value":234.3
+   "value":234.5
   },
   {
    "indicator":"numberofvaccinesadministered",
-   "value":157737439.0
+   "value":157891260.0
   },
   {
    "indicator":"numberofpersonsatleastonevaccine",
-   "value":54650869.0
+   "value":54660717.0
   },
   {
    "indicator":"numberofpersonsfullyvaccinated",
-   "value":53154487.0
+   "value":53167024.0
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":812.0
+   "value":814.0
   },
   {
    "indicator":"economicsupportindex",
@@ -199,11 +199,11 @@
   },
   {
    "indicator":"deathsnewlyreportedinlast7daysper",
-   "value":0.18
+   "value":0.25
   },
   {
    "indicator":"total_boosters_per_hundred",
-   "value":60.88
+   "value":60.91
   },
   {
    "indicator":"first_vaccine_date",
