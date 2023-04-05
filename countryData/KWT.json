@@ -59,19 +59,19 @@
   },
   {
    "indicator":"numberofvaccinesadministered",
-   "value":8259320.0
+   "value":8259373.0
   },
   {
    "indicator":"numberofpersonsatleastonevaccine",
-   "value":3456597.0
+   "value":3456620.0
   },
   {
    "indicator":"numberofpersonsfullyvaccinated",
-   "value":3345232.0
+   "value":3345262.0
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":827.0
+   "value":828.0
   },
   {
    "indicator":"economicsupportindex",
