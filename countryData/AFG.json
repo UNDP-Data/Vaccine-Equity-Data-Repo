@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":776.0
+   "value":778.0
   },
   {
    "indicator":"economicsupportindex",
@@ -103,15 +103,15 @@
   },
   {
    "indicator":"pricebracket_che40",
-   "value":7.89
+   "value":6.38
   },
   {
    "indicator":"pricebracket_che70",
-   "value":13.81
+   "value":11.17
   },
   {
    "indicator":"pricebracket_che",
-   "value":19.72
+   "value":15.96
   },
   {
    "indicator":"utilrate_current",
@@ -171,7 +171,7 @@
   },
   {
    "indicator":"che",
-   "value":65.81
+   "value":81.32
   },
   {
    "indicator":"vaccine_willingness_monthly",
