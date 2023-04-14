@@ -47,31 +47,31 @@
   },
   {
    "indicator":"persons_fully_vaccinated_per100",
-   "value":91.6
+   "value":91.68
   },
   {
    "indicator":"persons_vaccinated_1plus_dose_pe",
-   "value":94.36
+   "value":94.41
   },
   {
    "indicator":"total_vaccinations_per100",
-   "value":230.89
+   "value":231.02
   },
   {
    "indicator":"numberofvaccinesadministered",
-   "value":15295641.0
+   "value":15304013.0
   },
   {
    "indicator":"numberofpersonsatleastonevaccine",
-   "value":6251151.0
+   "value":6254204.0
   },
   {
    "indicator":"numberofpersonsfullyvaccinated",
-   "value":6067959.0
+   "value":6073278.0
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":771.0
+   "value":772.0
   },
   {
    "indicator":"economicsupportindex",
