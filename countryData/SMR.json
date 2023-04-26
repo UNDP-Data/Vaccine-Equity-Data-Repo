@@ -71,11 +71,11 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":790.0
+   "value":791.0
   },
   {
    "indicator":"economicsupportindex",
-   "value":75.0
+   "value":0.0
   },
   {
    "indicator":"h7_vaccinationpolicy",
@@ -83,7 +83,7 @@
   },
   {
    "indicator":"stringencyindex_average",
-   "value":11.11
+   "value":5.56
   },
   {
    "indicator":"e4_internationalsupport",
