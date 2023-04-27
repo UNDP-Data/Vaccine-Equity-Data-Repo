@@ -3,11 +3,11 @@
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":619.47
+   "value":619.54
   },
   {
    "indicator":"newconfirmedcases7days",
-   "value":27.0
+   "value":21.0
   },
   {
    "indicator":"deathscumulativetotalper100000po",
@@ -19,7 +19,7 @@
   },
   {
    "indicator":"cumulativecases",
-   "value":271644.0
+   "value":271673.0
   },
   {
    "indicator":"newdeaths",
@@ -31,7 +31,7 @@
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
-   "value":0.06
+   "value":0.05
   },
   {
    "indicator":"deathslast7days",
@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":816.0
+   "value":817.0
   },
   {
    "indicator":"economicsupportindex",
@@ -135,7 +135,7 @@
   },
   {
    "indicator":"v3_vaccinefinancialsupportsummar",
-   "value":1.0
+   "value":5.0
   },
   {
    "indicator":"h7_name",
@@ -143,7 +143,7 @@
   },
   {
    "indicator":"v3_name",
-   "value":"Full cost to everyone eligible"
+   "value":"All eligible groups are fully government-funded"
   },
   {
    "indicator":"deliveredpopulation",
