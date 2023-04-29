@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":828.0
+   "value":829.0
   },
   {
    "indicator":"economicsupportindex",
@@ -175,7 +175,7 @@
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"83.5"
+   "value":"83.51790000000003"
   },
   {
    "indicator":"y2021NGDPDPC",
