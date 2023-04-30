@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":703.0
+   "value":704.0
   },
   {
    "indicator":"economicsupportindex",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"26may2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":127671.0
   }
  ],
  "Country or Area":"Kiribati",

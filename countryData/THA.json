@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":790.0
+   "value":791.0
   },
   {
    "indicator":"economicsupportindex",
@@ -91,7 +91,7 @@
   },
   {
    "indicator":"h5_investmentinvaccines",
-   "value":1888198189.7699999809
+   "value":1888198190.0
   },
   {
    "indicator":"cost_gdp_income70",
@@ -175,7 +175,7 @@
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"96.9"
+   "value":"96.462864"
   },
   {
    "indicator":"y2021NGDPDPC",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"28feb2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":71561955.0
   }
  ],
  "Country or Area":"Thailand",

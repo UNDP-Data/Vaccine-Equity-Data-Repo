@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":864.0
+   "value":865.0
   },
   {
    "indicator":"economicsupportindex",
@@ -91,7 +91,7 @@
   },
   {
    "indicator":"h5_investmentinvaccines",
-   "value":141155058.1899999976
+   "value":141155058.1999999881
   },
   {
    "indicator":"cost_gdp_income70",
@@ -175,7 +175,7 @@
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"91.7"
+   "value":"91.6676"
   },
   {
    "indicator":"y2021NGDPDPC",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"16dec2020"
+  },
+  {
+   "indicator":"Population, total",
+   "value":8829385.0
   }
  ],
  "Country or Area":"Israel",

@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":794.0
+   "value":795.0
   },
   {
    "indicator":"economicsupportindex",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"24feb2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":189973.0
   }
  ],
  "Country or Area":"Cura\u00e7ao",

@@ -175,7 +175,7 @@
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"95.7"
+   "value":"95.6805"
   },
   {
    "indicator":"y2021NGDPDPC",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"None"
+  },
+  {
+   "indicator":"Population, total",
+   "value":3262911.0
   }
  ],
  "Country or Area":"Puerto Rico",

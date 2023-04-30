@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":748.0
+   "value":749.0
   },
   {
    "indicator":"economicsupportindex",
@@ -175,7 +175,7 @@
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"71.9"
+   "value":"71.8888"
   },
   {
    "indicator":"y2021NGDPDPC",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"11apr2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":6695856.0
   }
  ],
  "Country or Area":"Libya",

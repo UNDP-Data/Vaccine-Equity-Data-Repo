@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":834.0
+   "value":835.0
   },
   {
    "indicator":"economicsupportindex",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"15jan2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":67879.0
   }
  ],
  "Country or Area":"Cayman Islands",

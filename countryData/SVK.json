@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":857.0
+   "value":858.0
   },
   {
    "indicator":"economicsupportindex",
@@ -175,7 +175,7 @@
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"76.0"
+   "value":"74.467814"
   },
   {
    "indicator":"y2021NGDPDPC",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"23dec2020"
+  },
+  {
+   "indicator":"Population, total",
+   "value":5455809.0
   }
  ],
  "Country or Area":"Slovakia",

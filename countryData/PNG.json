@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":760.0
+   "value":761.0
   },
   {
    "indicator":"economicsupportindex",
@@ -175,7 +175,7 @@
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"18.4"
+   "value":"39.0"
   },
   {
    "indicator":"y2021NGDPDPC",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"30mar2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":9850462.0
   }
  ],
  "Country or Area":"Papua New Guinea",

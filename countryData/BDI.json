@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":558.0
+   "value":559.0
   },
   {
    "indicator":"economicsupportindex",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"18oct2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":12386556.0
   }
  ],
  "Country or Area":"Burundi",

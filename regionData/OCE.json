@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"None"
+  },
+  {
+   "indicator":"Population, total",
+   "value":44214592.0
   }
  ],
  "Country or Area":"Oceania",

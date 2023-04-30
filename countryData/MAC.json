@@ -175,7 +175,7 @@
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"51.7"
+   "value":"51.6985"
   },
   {
    "indicator":"y2021NGDPDPC",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"None"
+  },
+  {
+   "indicator":"Population, total",
+   "value":682547.0
   }
  ],
  "Country or Area":"China, Macao Special Administrative Region",

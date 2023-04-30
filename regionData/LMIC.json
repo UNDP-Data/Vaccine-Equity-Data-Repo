@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"None"
+  },
+  {
+   "indicator":"Population, total",
+   "value":3377503537.0
   }
  ],
  "Country or Area":"Lower-middle-income countries",

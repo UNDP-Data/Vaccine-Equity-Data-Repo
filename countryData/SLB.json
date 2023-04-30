@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":767.0
+   "value":768.0
   },
   {
    "indicator":"economicsupportindex",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"23mar2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":699484.0
   }
  ],
  "Country or Area":"Solomon Islands",

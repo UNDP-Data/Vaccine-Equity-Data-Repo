@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"None"
+  },
+  {
+   "indicator":"Population, total",
+   "value":654148243.0
   }
  ],
  "Country or Area":"Latin America and the Caribbean",

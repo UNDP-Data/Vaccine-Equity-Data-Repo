@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":758.0
+   "value":759.0
   },
   {
    "indicator":"economicsupportindex",
@@ -175,7 +175,7 @@
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"83.0"
+   "value":"66.77350000000001"
   },
   {
    "indicator":"y2021NGDPDPC",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"01apr2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":5140978.0
   }
  ],
  "Country or Area":"Liberia",

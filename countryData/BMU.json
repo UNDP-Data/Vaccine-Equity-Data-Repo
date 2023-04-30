@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":838.0
+   "value":839.0
   },
   {
    "indicator":"economicsupportindex",
@@ -175,7 +175,7 @@
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"96.0"
+   "value":"96.0423"
   },
   {
    "indicator":"y2021NGDPDPC",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"11jan2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":64134.0
   }
  ],
  "Country or Area":"Bermuda",

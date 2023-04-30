@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":857.0
+   "value":858.0
   },
   {
    "indicator":"economicsupportindex",
@@ -175,7 +175,7 @@
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"70.9"
+   "value":"72.377783"
   },
   {
    "indicator":"y2021NGDPDPC",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"23dec2020"
+  },
+  {
+   "indicator":"Population, total",
+   "value":7331946.0
   }
  ],
  "Country or Area":"Serbia",

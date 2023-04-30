@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":1011.0
+   "value":1012.0
   },
   {
    "indicator":"economicsupportindex",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"22jul2020"
+  },
+  {
+   "indicator":"Population, total",
+   "value":1425861543.0
   }
  ],
  "Country or Area":"China",

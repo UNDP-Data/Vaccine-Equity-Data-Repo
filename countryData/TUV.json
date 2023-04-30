@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":746.0
+   "value":747.0
   },
   {
    "indicator":"economicsupportindex",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"13apr2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":11140.0
   }
  ],
  "Country or Area":"Tuvalu",

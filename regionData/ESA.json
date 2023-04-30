@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"None"
+  },
+  {
+   "indicator":"Population, total",
+   "value":2337113569.0
   }
  ],
  "Country or Area":"Eastern and South-Eastern Asia",

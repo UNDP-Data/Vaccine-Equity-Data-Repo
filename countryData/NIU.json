@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":690.0
+   "value":691.0
   },
   {
    "indicator":"economicsupportindex",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"08jun2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":1943.0
   }
  ],
  "Country or Area":"Niue",

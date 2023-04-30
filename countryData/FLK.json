@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"None"
+  },
+  {
+   "indicator":"Population, total",
+   "value":3757.0
   }
  ],
  "Country or Area":"Falkland Islands (Malvinas)",

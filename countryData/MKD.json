@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":801.0
+   "value":802.0
   },
   {
    "indicator":"economicsupportindex",
@@ -175,7 +175,7 @@
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"91.2"
+   "value":"91.1678"
   },
   {
    "indicator":"y2021NGDPDPC",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"17feb2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":2108119.0
   }
  ],
  "Country or Area":"North Macedonia",

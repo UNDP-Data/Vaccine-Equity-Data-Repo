@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"None"
+  },
+  {
+   "indicator":"Population, total",
+   "value":5893.0
   }
  ],
  "Country or Area":"Saint Pierre and Miquelon",

@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":777.0
+   "value":778.0
   },
   {
    "indicator":"economicsupportindex",
@@ -175,7 +175,7 @@
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"74.1"
+   "value":"71.88260000000002"
   },
   {
    "indicator":"y2021NGDPDPC",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"13mar2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":118743462.0
   }
  ],
  "Country or Area":"Ethiopia",

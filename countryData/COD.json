@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":740.0
+   "value":741.0
   },
   {
    "indicator":"economicsupportindex",
@@ -175,7 +175,7 @@
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"63.3"
+   "value":"63.31180000000001"
   },
   {
    "indicator":"y2021NGDPDPC",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"19apr2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":94374379.0
   }
  ],
  "Country or Area":"Democratic Republic of the Congo",

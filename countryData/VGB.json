@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":807.0
+   "value":808.0
   },
   {
    "indicator":"economicsupportindex",
@@ -175,7 +175,7 @@
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"None"
+   "value":"63.7321"
   },
   {
    "indicator":"y2021NGDPDPC",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"11feb2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":31060.0
   }
  ],
  "Country or Area":"British Virgin Islands",

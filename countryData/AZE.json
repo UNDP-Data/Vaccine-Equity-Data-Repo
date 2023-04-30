@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":829.0
+   "value":830.0
   },
   {
    "indicator":"economicsupportindex",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"20jan2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":10296374.0
   }
  ],
  "Country or Area":"Azerbaijan",

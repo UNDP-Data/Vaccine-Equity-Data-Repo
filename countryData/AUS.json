@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":797.0
+   "value":798.0
   },
   {
    "indicator":"economicsupportindex",
@@ -91,7 +91,7 @@
   },
   {
    "indicator":"h5_investmentinvaccines",
-   "value":4703229757.9799995422
+   "value":4703229758.0
   },
   {
    "indicator":"cost_gdp_income70",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"21feb2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":25795922.0
   }
  ],
  "Country or Area":"Australia",

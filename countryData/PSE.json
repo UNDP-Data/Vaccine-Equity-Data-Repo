@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":816.0
+   "value":817.0
   },
   {
    "indicator":"economicsupportindex",
@@ -175,7 +175,7 @@
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"76.8"
+   "value":"76.8095"
   },
   {
    "indicator":"y2021NGDPDPC",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"02feb2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":5076818.0
   }
  ],
  "Country or Area":"State of Palestine",

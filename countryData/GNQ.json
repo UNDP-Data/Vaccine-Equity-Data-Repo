@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":806.0
+   "value":807.0
   },
   {
    "indicator":"economicsupportindex",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"12feb2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":1613724.0
   }
  ],
  "Country or Area":"Equatorial Guinea",

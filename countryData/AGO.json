@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":780.0
+   "value":781.0
   },
   {
    "indicator":"economicsupportindex",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"10mar2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":33957975.0
   }
  ],
  "Country or Area":"Angola",

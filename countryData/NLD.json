@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":843.0
+   "value":844.0
   },
   {
    "indicator":"economicsupportindex",
@@ -91,7 +91,7 @@
   },
   {
    "indicator":"h5_investmentinvaccines",
-   "value":261627134.6399999857
+   "value":261627134.599999994
   },
   {
    "indicator":"cost_gdp_income70",
@@ -175,7 +175,7 @@
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"86.8"
+   "value":"85.92009"
   },
   {
    "indicator":"y2021NGDPDPC",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"06jan2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":17466838.0
   }
  ],
  "Country or Area":"Netherlands",

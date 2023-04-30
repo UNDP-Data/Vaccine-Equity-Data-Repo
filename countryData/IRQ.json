@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":788.0
+   "value":789.0
   },
   {
    "indicator":"economicsupportindex",
@@ -175,7 +175,7 @@
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"84.2"
+   "value":"82.938063"
   },
   {
    "indicator":"y2021NGDPDPC",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"02mar2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":43071016.0
   }
  ],
  "Country or Area":"Iraq",

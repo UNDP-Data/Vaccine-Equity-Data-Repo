@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":739.0
+   "value":740.0
   },
   {
    "indicator":"economicsupportindex",
@@ -175,7 +175,7 @@
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"64.7"
+   "value":"64.7068"
   },
   {
    "indicator":"y2021NGDPDPC",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"20apr2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":32640962.0
   }
  ],
  "Country or Area":"Yemen",

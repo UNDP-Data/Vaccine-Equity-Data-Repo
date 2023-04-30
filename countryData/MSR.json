@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":810.0
+   "value":811.0
   },
   {
    "indicator":"economicsupportindex",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"08feb2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":4445.0
   }
  ],
  "Country or Area":"Montserrat",

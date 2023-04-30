@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":796.0
+   "value":797.0
   },
   {
    "indicator":"economicsupportindex",
@@ -175,7 +175,7 @@
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"90.2"
+   "value":"91.81193"
   },
   {
    "indicator":"y2021NGDPDPC",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"22feb2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":6664351.0
   }
  ],
  "Country or Area":"Paraguay",

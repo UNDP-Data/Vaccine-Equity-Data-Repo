@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":850.0
+   "value":851.0
   },
   {
    "indicator":"economicsupportindex",
@@ -175,7 +175,7 @@
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"82.2"
+   "value":"82.1738"
   },
   {
    "indicator":"y2021NGDPDPC",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"30dec2020"
+  },
+  {
+   "indicator":"Population, total",
+   "value":1886860.0
   }
  ],
  "Country or Area":"Latvia",

@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":822.0
+   "value":823.0
   },
   {
    "indicator":"economicsupportindex",
@@ -175,7 +175,7 @@
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"86.2417"
+   "value":"98.9903"
   },
   {
    "indicator":"y2021NGDPDPC",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"27jan2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":168414908.0
   }
  ],
  "Country or Area":"Bangladesh",

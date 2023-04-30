@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":787.0
+   "value":788.0
   },
   {
    "indicator":"economicsupportindex",
@@ -175,7 +175,7 @@
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"71.7"
+   "value":"71.7125"
   },
   {
    "indicator":"y2021NGDPDPC",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"03mar2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":3074670.0
   }
  ],
  "Country or Area":"Republic of Moldova",

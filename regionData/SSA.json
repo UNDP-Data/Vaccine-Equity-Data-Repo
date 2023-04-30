@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"None"
+  },
+  {
+   "indicator":"Population, total",
+   "value":1123665231.0
   }
  ],
  "Country or Area":"Sub-Saharan Africa",

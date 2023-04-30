@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":819.0
+   "value":820.0
   },
   {
    "indicator":"economicsupportindex",
@@ -175,7 +175,7 @@
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"62.0"
+   "value":"61.67531"
   },
   {
    "indicator":"y2021NGDPDPC",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"30jan2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":43812345.0
   }
  ],
  "Country or Area":"Algeria",

@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":859.0
+   "value":860.0
   },
   {
    "indicator":"economicsupportindex",
@@ -91,7 +91,7 @@
   },
   {
    "indicator":"h5_investmentinvaccines",
-   "value":16088688901.0799999237
+   "value":16088688901.0
   },
   {
    "indicator":"cost_gdp_income70",
@@ -175,7 +175,7 @@
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"93.0"
+   "value":"92.57624"
   },
   {
    "indicator":"y2021NGDPDPC",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"21dec2020"
+  },
+  {
+   "indicator":"Population, total",
+   "value":67167774.0
   }
  ],
  "Country or Area":"United Kingdom of Great Britain and Northern Ireland",

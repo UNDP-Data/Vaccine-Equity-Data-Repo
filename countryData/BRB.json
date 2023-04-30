@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":841.0
+   "value":842.0
   },
   {
    "indicator":"economicsupportindex",
@@ -175,7 +175,7 @@
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"77.7"
+   "value":"77.7052"
   },
   {
    "indicator":"y2021NGDPDPC",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"08jan2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":280959.0
   }
  ],
  "Country or Area":"Barbados",

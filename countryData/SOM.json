@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":774.0
+   "value":775.0
   },
   {
    "indicator":"economicsupportindex",
@@ -175,7 +175,7 @@
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"89.0"
+   "value":"89.02329999999998"
   },
   {
    "indicator":"y2021NGDPDPC",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"16mar2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":16801170.0
   }
  ],
  "Country or Area":"Somalia",

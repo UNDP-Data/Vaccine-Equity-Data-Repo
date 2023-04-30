@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":864.0
+   "value":865.0
   },
   {
    "indicator":"economicsupportindex",
@@ -175,7 +175,7 @@
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"92.6"
+   "value":"92.6023"
   },
   {
    "indicator":"y2021NGDPDPC",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"16dec2020"
+  },
+  {
+   "indicator":"Population, total",
+   "value":5840504.0
   }
  ],
  "Country or Area":"Denmark",

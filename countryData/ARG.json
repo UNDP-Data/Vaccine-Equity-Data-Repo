@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":851.0
+   "value":852.0
   },
   {
    "indicator":"economicsupportindex",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"29dec2020"
+  },
+  {
+   "indicator":"Population, total",
+   "value":45163623.0
   }
  ],
  "Country or Area":"Argentina",

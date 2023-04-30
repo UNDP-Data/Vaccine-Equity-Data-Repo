@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"None"
+  },
+  {
+   "indicator":"Population, total",
+   "value":25921701.0
   }
  ],
  "Country or Area":"Democratic People's Republic of Korea",

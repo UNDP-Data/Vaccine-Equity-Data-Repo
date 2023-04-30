@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":779.0
+   "value":780.0
   },
   {
    "indicator":"economicsupportindex",
@@ -175,7 +175,7 @@
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"64.0"
+   "value":"49.1687"
   },
   {
    "indicator":"y2021NGDPDPC",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"11mar2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":19633241.0
   }
  ],
  "Country or Area":"Malawi",

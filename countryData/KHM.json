@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":808.0
+   "value":809.0
   },
   {
    "indicator":"economicsupportindex",
@@ -175,7 +175,7 @@
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"97.8"
+   "value":"97.818"
   },
   {
    "indicator":"y2021NGDPDPC",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"10feb2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":16497441.0
   }
  ],
  "Country or Area":"Cambodia",

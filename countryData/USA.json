@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":866.0
+   "value":867.0
   },
   {
    "indicator":"economicsupportindex",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"14dec2020"
+  },
+  {
+   "indicator":"Population, total",
+   "value":336495769.0
   }
  ],
  "Country or Area":"United States of America",

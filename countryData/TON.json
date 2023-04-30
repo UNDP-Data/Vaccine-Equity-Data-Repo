@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":745.0
+   "value":746.0
   },
   {
    "indicator":"economicsupportindex",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"14apr2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":105635.0
   }
  ],
  "Country or Area":"Tonga",

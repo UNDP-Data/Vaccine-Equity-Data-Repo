@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":794.0
+   "value":795.0
   },
   {
    "indicator":"economicsupportindex",
@@ -175,7 +175,7 @@
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"77.1"
+   "value":"76.17155"
   },
   {
    "indicator":"y2021NGDPDPC",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"24feb2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":43728640.0
   }
  ],
  "Country or Area":"Ukraine",

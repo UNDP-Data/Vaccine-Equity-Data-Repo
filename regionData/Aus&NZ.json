@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"None"
+  },
+  {
+   "indicator":"Population, total",
+   "value":30891693.0
   }
  ],
  "Country or Area":"Australia and New Zealand",

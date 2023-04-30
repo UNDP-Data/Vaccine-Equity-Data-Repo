@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":764.0
+   "value":765.0
   },
   {
    "indicator":"economicsupportindex",
@@ -175,7 +175,7 @@
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"86.9"
+   "value":"86.88520000000003"
   },
   {
    "indicator":"y2021NGDPDPC",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"26mar2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":2569263.0
   }
  ],
  "Country or Area":"Botswana",

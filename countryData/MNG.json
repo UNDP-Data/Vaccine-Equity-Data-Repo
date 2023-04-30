@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":795.0
+   "value":796.0
   },
   {
    "indicator":"economicsupportindex",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"23feb2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":3322207.0
   }
  ],
  "Country or Area":"Mongolia",

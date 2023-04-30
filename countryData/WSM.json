@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":741.0
+   "value":742.0
   },
   {
    "indicator":"economicsupportindex",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"18apr2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":216800.0
   }
  ],
  "Country or Area":"Samoa",

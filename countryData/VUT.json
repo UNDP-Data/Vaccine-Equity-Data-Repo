@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":696.0
+   "value":697.0
   },
   {
    "indicator":"economicsupportindex",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"02jun2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":315398.0
   }
  ],
  "Country or Area":"Vanuatu",

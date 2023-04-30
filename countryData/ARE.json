@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"None"
+  },
+  {
+   "indicator":"Population, total",
+   "value":9327028.0
   }
  ],
  "Country or Area":"United Arab Emirates",

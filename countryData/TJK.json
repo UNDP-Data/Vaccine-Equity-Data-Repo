@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":766.0
+   "value":767.0
   },
   {
    "indicator":"economicsupportindex",
@@ -175,7 +175,7 @@
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"73.3"
+   "value":"73.3225"
   },
   {
    "indicator":"y2021NGDPDPC",
@@ -208,6 +208,10 @@
   {
    "indicator":"first_vaccine_date",
    "value":"24mar2021"
+  },
+  {
+   "indicator":"Population, total",
+   "value":9643597.0
   }
  ],
  "Country or Area":"Tajikistan",
