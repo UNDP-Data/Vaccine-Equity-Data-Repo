@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":860.0
+   "value":861.0
   },
   {
    "indicator":"economicsupportindex",
@@ -91,7 +91,7 @@
   },
   {
    "indicator":"h5_investmentinvaccines",
-   "value":16088688901.0
+   "value":16088688901.0799999237
   },
   {
    "indicator":"cost_gdp_income70",
