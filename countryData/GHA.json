@@ -3,7 +3,7 @@
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":552.31
+   "value":552.42
   },
   {
    "indicator":"newconfirmedcases7days",
@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":793.0
+   "value":794.0
   },
   {
    "indicator":"economicsupportindex",
