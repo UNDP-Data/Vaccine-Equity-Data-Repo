@@ -175,7 +175,7 @@
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"None"
+   "value":null
   },
   {
    "indicator":"y2021NGDPDPC",

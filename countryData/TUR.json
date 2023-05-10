@@ -139,7 +139,7 @@
   },
   {
    "indicator":"h7_name",
-   "value":"None"
+   "value":null
   },
   {
    "indicator":"v3_name",
@@ -207,7 +207,7 @@
   },
   {
    "indicator":"first_vaccine_date",
-   "value":"None"
+   "value":null
   },
   {
    "indicator":"Population, total",

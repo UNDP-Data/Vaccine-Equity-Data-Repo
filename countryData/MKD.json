@@ -139,11 +139,11 @@
   },
   {
    "indicator":"h7_name",
-   "value":"None"
+   "value":null
   },
   {
    "indicator":"v3_name",
-   "value":"None"
+   "value":null
   },
   {
    "indicator":"deliveredpopulation",

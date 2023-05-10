@@ -139,7 +139,7 @@
   },
   {
    "indicator":"h7_name",
-   "value":"None"
+   "value":null
   },
   {
    "indicator":"v3_name",
@@ -159,7 +159,7 @@
   },
   {
    "indicator":"covid19riskclass",
-   "value":"None"
+   "value":null
   },
   {
    "indicator":"informcovid19risk",
@@ -207,7 +207,7 @@
   },
   {
    "indicator":"first_vaccine_date",
-   "value":"None"
+   "value":null
   },
   {
    "indicator":"Population, total",
