@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":790.0
+   "value":791.0
   },
   {
    "indicator":"economicsupportindex",
@@ -135,7 +135,7 @@
   },
   {
    "indicator":"v3_vaccinefinancialsupportsummar",
-   "value":0.0
+   "value":5.0
   },
   {
    "indicator":"h7_name",
@@ -143,7 +143,7 @@
   },
   {
    "indicator":"v3_name",
-   "value":"No availability"
+   "value":"All eligible groups are fully government-funded"
   },
   {
    "indicator":"deliveredpopulation",

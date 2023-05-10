@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":785.0
+   "value":786.0
   },
   {
    "indicator":"economicsupportindex",
@@ -79,7 +79,7 @@
   },
   {
    "indicator":"h7_vaccinationpolicy",
-   "value":4.0
+   "value":5.0
   },
   {
    "indicator":"stringencyindex_average",
@@ -139,7 +139,7 @@
   },
   {
    "indicator":"h7_name",
-   "value":"Availability for key workers clinically vulnerable groups (non elderly) elderly groups plus partial additional availability"
+   "value":"Universal availability"
   },
   {
    "indicator":"v3_name",

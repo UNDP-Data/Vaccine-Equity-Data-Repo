@@ -79,7 +79,7 @@
   },
   {
    "indicator":"h7_vaccinationpolicy",
-   "value":5.0
+   "value":3.0
   },
   {
    "indicator":"stringencyindex_average",
@@ -139,7 +139,7 @@
   },
   {
    "indicator":"h7_name",
-   "value":"Universal availability"
+   "value":"Availability for ALL of following: key workers clinically vulnerable groups (non elderly) elderly groups"
   },
   {
    "indicator":"v3_name",
