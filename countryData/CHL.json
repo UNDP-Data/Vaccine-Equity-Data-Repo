@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":872.0
+   "value":873.0
   },
   {
    "indicator":"economicsupportindex",
@@ -119,7 +119,7 @@
   },
   {
    "indicator":"utilrate_lag",
-   "value":71.27
+   "value":71.31
   },
   {
    "indicator":"donationsoftotal",
@@ -195,7 +195,7 @@
   },
   {
    "indicator":"uhc",
-   "value":79.84
+   "value":82.28
   },
   {
    "indicator":"deathsnewlyreportedinlast7daysper",
