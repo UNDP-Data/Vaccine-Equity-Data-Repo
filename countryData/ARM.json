@@ -43,7 +43,7 @@
   },
   {
    "indicator":"number_vaccines_types_used",
-   "value":8.0
+   "value":10.0
   },
   {
    "indicator":"persons_fully_vaccinated_per100",
@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":698.0
+   "value":839.0
   },
   {
    "indicator":"economicsupportindex",
@@ -207,7 +207,7 @@
   },
   {
    "indicator":"first_vaccine_date",
-   "value":"16jun2021"
+   "value":"27jan2021"
   },
   {
    "indicator":"Population, total",

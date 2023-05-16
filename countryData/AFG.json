@@ -39,7 +39,7 @@
   },
   {
    "indicator":"persons_booster_add_dose",
-   "value":1092420.0
+   "value":1101614.0
   },
   {
    "indicator":"number_vaccines_types_used",
@@ -47,31 +47,31 @@
   },
   {
    "indicator":"persons_fully_vaccinated_per100",
-   "value":36.16
+   "value":36.24
   },
   {
    "indicator":"persons_vaccinated_1plus_dose_pe",
-   "value":37.99
+   "value":38.08
   },
   {
    "indicator":"total_vaccinations_per100",
-   "value":43.46
+   "value":43.57
   },
   {
    "indicator":"numberofvaccinesadministered",
-   "value":16918550.0
+   "value":16960754.0
   },
   {
    "indicator":"numberofpersonsatleastonevaccine",
-   "value":14790567.0
+   "value":14823235.0
   },
   {
    "indicator":"numberofpersonsfullyvaccinated",
-   "value":14076220.0
+   "value":14109000.0
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":812.0
+   "value":813.0
   },
   {
    "indicator":"economicsupportindex",
@@ -119,7 +119,7 @@
   },
   {
    "indicator":"utilrate_lag",
-   "value":88.32
+   "value":88.54
   },
   {
    "indicator":"donationsoftotal",
@@ -203,7 +203,7 @@
   },
   {
    "indicator":"total_boosters_per_hundred",
-   "value":2.81
+   "value":2.83
   },
   {
    "indicator":"first_vaccine_date",
