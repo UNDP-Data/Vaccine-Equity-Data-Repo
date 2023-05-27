@@ -55,11 +55,11 @@
   },
   {
    "indicator":"total_vaccinations_per100",
-   "value":77.29
+   "value":77.75
   },
   {
    "indicator":"numberofvaccinesadministered",
-   "value":25402678.0
+   "value":25552936.0
   },
   {
    "indicator":"numberofpersonsatleastonevaccine",
@@ -71,7 +71,7 @@
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":806.0
+   "value":808.0
   },
   {
    "indicator":"economicsupportindex",
