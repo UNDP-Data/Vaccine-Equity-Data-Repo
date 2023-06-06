@@ -115,11 +115,11 @@
   },
   {
    "indicator":"utilrate_current",
-   "value":3451.52
+   "value":278.68
   },
   {
    "indicator":"utilrate_lag",
-   "value":3451.52
+   "value":46.18
   },
   {
    "indicator":"donationsoftotal",
@@ -147,11 +147,11 @@
   },
   {
    "indicator":"deliveredpopulation",
-   "value":25.62
+   "value":2.2
   },
   {
    "indicator":"delivered_total",
-   "value":6438514.0
+   "value":1066869.0
   },
   {
    "indicator":"delivered_total_lag",
