@@ -3,15 +3,15 @@
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":26792.61
+   "value":26802.13
   },
   {
    "indicator":"newconfirmedcases7days",
-   "value":88.0
+   "value":13.0
   },
   {
    "indicator":"deathscumulativetotalper100000po",
-   "value":176.46
+   "value":177.33
   },
   {
    "indicator":"newconfirmedcases24hours",
@@ -19,7 +19,7 @@
   },
   {
    "indicator":"cumulativecases",
-   "value":1480370.0
+   "value":1480896.0
   },
   {
    "indicator":"newdeaths",
@@ -27,11 +27,11 @@
   },
   {
    "indicator":"cumulativedeaths",
-   "value":9750.0
+   "value":9798.0
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
-   "value":1.59
+   "value":0.24
   },
   {
    "indicator":"deathslast7days",
