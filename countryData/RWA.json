@@ -119,7 +119,7 @@
   },
   {
    "indicator":"utilrate_lag",
-   "value":199.74
+   "value":6455.32
   },
   {
    "indicator":"donationsoftotal",
@@ -155,7 +155,7 @@
   },
   {
    "indicator":"delivered_total_lag",
-   "value":27730660.0
+   "value":858046.0
   },
   {
    "indicator":"covid19riskclass",
