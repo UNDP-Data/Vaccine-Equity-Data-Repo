@@ -199,7 +199,7 @@
   },
   {
    "indicator":"deathsnewlyreportedinlast7daysper",
-   "value":1.14
+   "value":0.0
   },
   {
    "indicator":"total_boosters_per_hundred",
