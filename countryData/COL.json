@@ -119,7 +119,7 @@
   },
   {
    "indicator":"utilrate_lag",
-   "value":2.47
+   "value":0.01
   },
   {
    "indicator":"donationsoftotal",
