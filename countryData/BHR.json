@@ -119,7 +119,7 @@
   },
   {
    "indicator":"utilrate_lag",
-   "value":16619.68
+   "value":64.05
   },
   {
    "indicator":"donationsoftotal",
@@ -226,5 +226,6 @@
  "LLDC":false,
  "SIDS":false,
  "Development classification":"",
- "Income group":"High income"
+ "Income group":"High income",
+ "UNDP_Region":"UNDP_AS"
 }

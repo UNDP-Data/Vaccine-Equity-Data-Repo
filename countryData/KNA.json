@@ -226,5 +226,6 @@
  "LLDC":false,
  "SIDS":true,
  "Development classification":"SIDS",
- "Income group":"High income"
+ "Income group":"High income",
+ "UNDP_Region":"UNDP_LAC"
 }

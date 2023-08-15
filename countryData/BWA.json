@@ -3,7 +3,7 @@
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":14039.43
+   "value":14040.32
   },
   {
    "indicator":"newconfirmedcases7days",
@@ -11,7 +11,7 @@
   },
   {
    "indicator":"deathscumulativetotalper100000po",
-   "value":118.98
+   "value":119.02
   },
   {
    "indicator":"newconfirmedcases24hours",
@@ -19,7 +19,7 @@
   },
   {
    "indicator":"cumulativecases",
-   "value":330155.0
+   "value":330194.0
   },
   {
    "indicator":"newdeaths",
@@ -27,7 +27,7 @@
   },
   {
    "indicator":"cumulativedeaths",
-   "value":2798.0
+   "value":2800.0
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
@@ -119,7 +119,7 @@
   },
   {
    "indicator":"utilrate_lag",
-   "value":198.48
+   "value":198.12
   },
   {
    "indicator":"donationsoftotal",
@@ -226,5 +226,6 @@
  "LLDC":true,
  "SIDS":false,
  "Development classification":"LLDC",
- "Income group":"Upper middle income"
+ "Income group":"Upper middle income",
+ "UNDP_Region":"UNDP_SSA"
 }

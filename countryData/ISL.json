@@ -19,7 +19,7 @@
   },
   {
    "indicator":"cumulativecases",
-   "value":208757.0
+   "value":208814.0
   },
   {
    "indicator":"newdeaths",
@@ -119,7 +119,7 @@
   },
   {
    "indicator":"utilrate_lag",
-   "value":3.31
+   "value":2532.44
   },
   {
    "indicator":"donationsoftotal",
@@ -226,5 +226,6 @@
  "LLDC":false,
  "SIDS":false,
  "Development classification":"",
- "Income group":"High income"
+ "Income group":"High income",
+ "UNDP_Region":""
 }

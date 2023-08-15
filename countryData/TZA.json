@@ -226,5 +226,6 @@
  "LLDC":false,
  "SIDS":false,
  "Development classification":"LDC",
- "Income group":"Lower middle income"
+ "Income group":"Lower middle income",
+ "UNDP_Region":"UNDP_SSA"
 }

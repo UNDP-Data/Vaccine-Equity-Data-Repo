@@ -1,231 +1,230 @@
 {
- "Alpha-3 code":"BDI",
+ "Alpha-3 code":"UNDP_AP",
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":456.1
+   "value":null
   },
   {
    "indicator":"newconfirmedcases7days",
-   "value":0.0
+   "value":null
   },
   {
    "indicator":"deathscumulativetotalper100000po",
-   "value":0.13
+   "value":null
   },
   {
    "indicator":"newconfirmedcases24hours",
-   "value":0.0
+   "value":null
   },
   {
    "indicator":"cumulativecases",
-   "value":54234.0
+   "value":null
   },
   {
    "indicator":"newdeaths",
-   "value":0.0
+   "value":null
   },
   {
    "indicator":"cumulativedeaths",
-   "value":15.0
+   "value":null
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
-   "value":0.0
+   "value":null
   },
   {
    "indicator":"deathslast7days",
-   "value":0.0
+   "value":null
   },
   {
    "indicator":"persons_booster_add_dose",
-   "value":314.0
+   "value":null
   },
   {
    "indicator":"number_vaccines_types_used",
-   "value":1.0
+   "value":null
   },
   {
    "indicator":"persons_fully_vaccinated_per100",
-   "value":0.3
+   "value":null
   },
   {
    "indicator":"persons_vaccinated_1plus_dose_pe",
-   "value":0.31
+   "value":null
   },
   {
    "indicator":"total_vaccinations_per100",
-   "value":0.33
+   "value":null
   },
   {
    "indicator":"numberofvaccinesadministered",
-   "value":39182.0
+   "value":null
   },
   {
    "indicator":"numberofpersonsatleastonevaccine",
-   "value":36909.0
+   "value":null
   },
   {
    "indicator":"numberofpersonsfullyvaccinated",
-   "value":36321.0
+   "value":null
   },
   {
    "indicator":"numberofdayseelapsedfromfirstvaccine",
-   "value":590.0
+   "value":null
   },
   {
    "indicator":"economicsupportindex",
-   "value":0.0
+   "value":null
   },
   {
    "indicator":"h7_vaccinationpolicy",
-   "value":5.0
+   "value":null
   },
   {
    "indicator":"stringencyindex_average",
-   "value":19.44
+   "value":null
   },
   {
    "indicator":"e4_internationalsupport",
-   "value":0.0
+   "value":null
   },
   {
    "indicator":"h5_investmentinvaccines",
-   "value":0.0
+   "value":null
   },
   {
    "indicator":"cost_gdp_income70",
-   "value":3.48
+   "value":null
   },
   {
    "indicator":"cost_gdp_income40",
-   "value":1.99
+   "value":null
   },
   {
    "indicator":"pricebracket_che40",
-   "value":25.24
+   "value":null
   },
   {
    "indicator":"pricebracket_che70",
-   "value":44.18
+   "value":null
   },
   {
    "indicator":"pricebracket_che",
-   "value":63.11
+   "value":null
   },
   {
    "indicator":"utilrate_current",
-   "value":405.0
+   "value":null
   },
   {
    "indicator":"utilrate_lag",
-   "value":922.09
+   "value":null
   },
   {
    "indicator":"donationsoftotal",
-   "value":63.85
+   "value":null
   },
   {
    "indicator":"gap_percapita",
-   "value":1.82
+   "value":null
   },
   {
    "indicator":"gap_gghe",
-   "value":33.9
+   "value":null
   },
   {
    "indicator":"v3_vaccinefinancialsupportsummar",
-   "value":5.0
+   "value":null
   },
   {
    "indicator":"h7_name",
-   "value":"Availability for key workers clinically vulnerable groups (non elderly) elderly groups plus partial additional availability"
+   "value":"None"
   },
   {
    "indicator":"v3_name",
-   "value":"All eligible groups are fully government-funded"
+   "value":"None"
   },
   {
    "indicator":"deliveredpopulation",
-   "value":6.39
+   "value":null
   },
   {
    "indicator":"delivered_total",
-   "value":783122.0
+   "value":null
   },
   {
    "indicator":"delivered_total_lag",
-   "value":783122.0
+   "value":null
   },
   {
    "indicator":"covid19riskclass",
-   "value":"Very High"
+   "value":"None"
   },
   {
    "indicator":"informcovid19risk",
-   "value":6.5
+   "value":null
   },
   {
    "indicator":"hdi",
-   "value":0.43
+   "value":null
   },
   {
    "indicator":"che",
-   "value":20.57
+   "value":null
   },
   {
    "indicator":"vaccine_willingness_monthly",
-   "value":"66.4413"
+   "value":"None"
   },
   {
    "indicator":"y2021NGDPDPC",
-   "value":261.05
+   "value":null
   },
   {
    "indicator":"y2021GGXWDG_NGDP",
-   "value":72.43
+   "value":null
   },
   {
    "indicator":"securedvaccineofpopulation",
-   "value":124.08
+   "value":null
   },
   {
    "indicator":"totaldonationsreceived",
-   "value":500000.0
+   "value":null
   },
   {
    "indicator":"uhc",
-   "value":41.46
+   "value":null
   },
   {
    "indicator":"deathsnewlyreportedinlast7daysper",
-   "value":0.0
+   "value":null
   },
   {
    "indicator":"total_boosters_per_hundred",
-   "value":0.0
+   "value":null
   },
   {
    "indicator":"first_vaccine_date",
-   "value":"18oct2021"
+   "value":"None"
   },
   {
    "indicator":"Population, total",
-   "value":12386556.0
+   "value":null
   }
  ],
- "Country or Area":"Burundi",
- "Alpha-2 code":"BI",
- "Numeric code":108,
- "Latitude (average)":-3.5,
- "Longitude (average)":30.0,
- "Group 1":"Africa",
- "Group 2":"Sub-Saharan Africa",
- "Group 3":"Eastern Africa",
- "LDC":true,
- "LLDC":true,
+ "Country or Area":"Asia & Pacific",
+ "Alpha-2 code":"",
+ "Numeric code":0,
+ "Latitude (average)":0.0,
+ "Longitude (average)":0.0,
+ "Group 1":"",
+ "Group 2":"",
+ "Group 3":"",
+ "LDC":false,
+ "LLDC":false,
  "SIDS":false,
- "Development classification":"LDC, LLDC",
- "Income group":"Low income",
- "UNDP_Region":"UNDP_SSA"
+ "Development classification":"",
+ "Income group":""
 }

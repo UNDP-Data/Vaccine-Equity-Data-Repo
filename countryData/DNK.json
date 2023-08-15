@@ -3,15 +3,15 @@
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":58641.73
+   "value":58643.53
   },
   {
    "indicator":"newconfirmedcases7days",
-   "value":59.0
+   "value":105.0
   },
   {
    "indicator":"deathscumulativetotalper100000po",
-   "value":150.53
+   "value":150.63
   },
   {
    "indicator":"newconfirmedcases24hours",
@@ -19,7 +19,7 @@
   },
   {
    "indicator":"cumulativecases",
-   "value":3414569.0
+   "value":3414815.0
   },
   {
    "indicator":"newdeaths",
@@ -27,15 +27,15 @@
   },
   {
    "indicator":"cumulativedeaths",
-   "value":8765.0
+   "value":8773.0
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
-   "value":1.01
+   "value":1.8
   },
   {
    "indicator":"deathslast7days",
-   "value":1.0
+   "value":2.0
   },
   {
    "indicator":"persons_booster_add_dose",
@@ -119,7 +119,7 @@
   },
   {
    "indicator":"utilrate_lag",
-   "value":45.08
+   "value":131.8
   },
   {
    "indicator":"donationsoftotal",
@@ -199,7 +199,7 @@
   },
   {
    "indicator":"deathsnewlyreportedinlast7daysper",
-   "value":0.02
+   "value":0.1
   },
   {
    "indicator":"total_boosters_per_hundred",
@@ -226,5 +226,6 @@
  "LLDC":false,
  "SIDS":false,
  "Development classification":"",
- "Income group":"High income"
+ "Income group":"High income",
+ "UNDP_Region":""
 }

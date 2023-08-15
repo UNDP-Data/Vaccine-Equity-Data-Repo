@@ -119,7 +119,7 @@
   },
   {
    "indicator":"utilrate_lag",
-   "value":869.34
+   "value":97.51
   },
   {
    "indicator":"donationsoftotal",
@@ -226,5 +226,6 @@
  "LLDC":false,
  "SIDS":true,
  "Development classification":"LDC, SIDS",
- "Income group":"Lower middle income"
+ "Income group":"Lower middle income",
+ "UNDP_Region":"UNDP_SSA"
 }

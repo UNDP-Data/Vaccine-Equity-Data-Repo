@@ -19,7 +19,7 @@
   },
   {
    "indicator":"cumulativecases",
-   "value":8332.0
+   "value":8341.0
   },
   {
    "indicator":"newdeaths",
@@ -226,5 +226,6 @@
  "LLDC":false,
  "SIDS":true,
  "Development classification":"SIDS",
- "Income group":"Upper middle income"
+ "Income group":"Upper middle income",
+ "UNDP_Region":""
 }

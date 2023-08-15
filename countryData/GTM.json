@@ -3,15 +3,15 @@
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":7083.5
+   "value":7094.73
   },
   {
    "indicator":"newconfirmedcases7days",
-   "value":2121.0
+   "value":2012.0
   },
   {
    "indicator":"deathscumulativetotalper100000po",
-   "value":112.88
+   "value":112.95
   },
   {
    "indicator":"newconfirmedcases24hours",
@@ -19,7 +19,7 @@
   },
   {
    "indicator":"cumulativecases",
-   "value":1269049.0
+   "value":1271061.0
   },
   {
    "indicator":"newdeaths",
@@ -27,15 +27,15 @@
   },
   {
    "indicator":"cumulativedeaths",
-   "value":20224.0
+   "value":20235.0
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
-   "value":11.84
+   "value":11.23
   },
   {
    "indicator":"deathslast7days",
-   "value":5.0
+   "value":0.0
   },
   {
    "indicator":"persons_booster_add_dose",
@@ -119,7 +119,7 @@
   },
   {
    "indicator":"utilrate_lag",
-   "value":1035.58
+   "value":107.07
   },
   {
    "indicator":"donationsoftotal",
@@ -199,7 +199,7 @@
   },
   {
    "indicator":"deathsnewlyreportedinlast7daysper",
-   "value":0.03
+   "value":0.06
   },
   {
    "indicator":"total_boosters_per_hundred",
@@ -226,5 +226,6 @@
  "LLDC":false,
  "SIDS":false,
  "Development classification":"",
- "Income group":"Upper middle income"
+ "Income group":"Upper middle income",
+ "UNDP_Region":"UNDP_LAC"
 }

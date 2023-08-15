@@ -3,7 +3,7 @@
  "data":[
   {
    "indicator":"casescumulativetotalper100000pop",
-   "value":30671.01
+   "value":30683.45
   },
   {
    "indicator":"newconfirmedcases7days",
@@ -19,7 +19,7 @@
   },
   {
    "indicator":"cumulativecases",
-   "value":51765.0
+   "value":51786.0
   },
   {
    "indicator":"newdeaths",
@@ -226,5 +226,6 @@
  "LLDC":false,
  "SIDS":true,
  "Development classification":"SIDS",
- "Income group":"High income"
+ "Income group":"High income",
+ "UNDP_Region":""
 }
