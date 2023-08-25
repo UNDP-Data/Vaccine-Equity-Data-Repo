@@ -7,11 +7,11 @@
   },
   {
    "indicator":"newconfirmedcases7days",
-   "value":212.0
+   "value":0.0
   },
   {
    "indicator":"deathscumulativetotalper100000po",
-   "value":104.7
+   "value":104.72
   },
   {
    "indicator":"newconfirmedcases24hours",
@@ -31,7 +31,7 @@
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
-   "value":3.95
+   "value":0.0
   },
   {
    "indicator":"deathslast7days",
