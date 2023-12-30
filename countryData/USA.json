@@ -11,7 +11,7 @@
   },
   {
    "indicator":"deathscumulativetotalper100000po",
-   "value":340.53
+   "value":345.88
   },
   {
    "indicator":"newconfirmedcases24hours",
@@ -27,7 +27,7 @@
   },
   {
    "indicator":"cumulativedeaths",
-   "value":1127152.0
+   "value":1144877.0
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
@@ -119,7 +119,7 @@
   },
   {
    "indicator":"utilrate_lag",
-   "value":3.23
+   "value":0.53
   },
   {
    "indicator":"donationsoftotal",
