@@ -23,7 +23,7 @@
   },
   {
    "indicator":"newdeaths",
-   "value":0.0
+   "value":30.0
   },
   {
    "indicator":"cumulativedeaths",
