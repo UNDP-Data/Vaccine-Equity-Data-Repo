@@ -19,15 +19,15 @@
   },
   {
    "indicator":"cumulativecases",
-   "value":26699442.0
+   "value":26706005.0
   },
   {
    "indicator":"newdeaths",
-   "value":18.0
+   "value":62.0
   },
   {
    "indicator":"cumulativedeaths",
-   "value":195996.0
+   "value":196379.0
   },
   {
    "indicator":"casesnewlyreportedinlast7daysper",
@@ -35,7 +35,7 @@
   },
   {
    "indicator":"deathslast7days",
-   "value":1845.0
+   "value":1728.0
   },
   {
    "indicator":"persons_booster_add_dose",
